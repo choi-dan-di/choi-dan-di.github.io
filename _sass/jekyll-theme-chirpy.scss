@@ -1,0 +1,26 @@
+/*!
+ * The styles for Jekyll theme Chirpy
+ *
+ * Chirpy v5.3.1 (https://github.com/cotes2020/jekyll-theme-chirpy)
+ * © 2019 Cotes Chung
+ * MIT Licensed
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+
+@import
+  "colors/light-typography",
+  "colors/dark-typography",
+
+  "addon/module",
+  "addon/variables",
+  "variables-hook",
+  "addon/syntax",
+  "addon/commons",
+
+  "layout/home",
+  "layout/post",
+  "layout/tags",
+  "layout/archives",
+  "layout/categories",
+  "layout/category-tag";
