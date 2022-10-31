@@ -26,6 +26,8 @@ categories:
         url: /study/cpp/
       - title: "C#"
         url: /study/csharp/
+      - title: "Markdown"
+        url: /study/md/
 
   - title: "Dandi"
     children:
