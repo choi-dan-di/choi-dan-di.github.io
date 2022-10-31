@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: https://choi-dan-di.github.io/
+#  - title: "Home"
+#    url: https://choi-dan-di.github.io/
 
   - title: "About"
     url: /about/
