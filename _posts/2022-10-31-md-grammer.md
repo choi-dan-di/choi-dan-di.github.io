@@ -50,7 +50,7 @@ This is an H2
 
 적용예 :   
 
-![Alt text](/assets/images/posts_img/grammer/h2_example.png "정상적으로 출력되나 우측 TOC 때문에 이미지로 대체..^^")
+![Alt text](/assets/images/posts_img/grammer/h2_example.PNG "정상적으로 출력되나 우측 TOC 때문에 이미지로 대체..^^")
 
 ***
 
@@ -68,7 +68,7 @@ This is an H2
 
 적용예 :   
 
-![Alt text](/assets/images/posts_img/grammer/header_example.png "정상적으로 출력되나 우측 TOC 때문에 이미지로 대체..^^")
+![Alt text](/assets/images/posts_img/grammer/header_example.PNG "정상적으로 출력되나 우측 TOC 때문에 이미지로 대체..^^")
 
 ***
 
