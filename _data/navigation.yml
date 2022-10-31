@@ -1,0 +1,33 @@
+# main links
+main:
+  - title: "Home"
+    url: https://choi-dan-di.github.io/
+
+  - title: "About"
+    url: /about/
+
+  - title: "GitHub"
+    url: https://github.com/choi-dan-di
+
+  # - title: "Projects"
+  #   url: /projects/
+
+  # - title: "Categories"
+  #   url: /categories/
+
+# sidebar navigation (categories)
+# 2022.09.24 sidebar ver2.0 : main-sub version
+categories:
+  - title: "Study"
+    children:
+      - title: "Assembly Language"
+        url: /study/asm/
+      - title: "C/C++"
+        url: /study/cpp/
+      - title: "C#"
+        url: /study/csharp/
+
+  - title: "Dandi"
+    children:
+      - title: "Me"
+        url: /dandi/me/
