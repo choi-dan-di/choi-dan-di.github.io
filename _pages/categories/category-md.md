@@ -1,7 +1,7 @@
 ---
 title: "Markdown"
 layout: category
-permalink: /study/md/
+permalink: /basics/md/
 author_profile: true
 taxonomy: Markdown
 sidebar:

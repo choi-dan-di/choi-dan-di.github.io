@@ -1,7 +1,7 @@
 ---
 title: "Assembly Language"
 layout: category
-permalink: /study/asm/
+permalink: /basics/asm/
 author_profile: true
 taxonomy: Assembly Language
 sidebar:

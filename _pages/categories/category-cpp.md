@@ -1,7 +1,7 @@
 ---
 title: "C/C++"
 layout: category
-permalink: /study/cpp/
+permalink: /basics/cpp/
 author_profile: true
 taxonomy: C/C++
 sidebar:

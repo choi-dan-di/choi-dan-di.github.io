@@ -18,16 +18,21 @@ main:
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
 categories:
-  - title: "Study"
+  - title: "Basics"
     children:
       - title: "Assembly Language"
-        url: /study/asm/
+        url: /basics/asm/
       - title: "C/C++"
-        url: /study/cpp/
+        url: /basics/cpp/
       - title: "C#"
-        url: /study/csharp/
+        url: /basics/csharp/
       - title: "Markdown"
-        url: /study/md/
+        url: /basics/md/
+  
+  - title: "Projects"
+    children:
+      - title: "GitHub Blog"
+        url: /projects/github-blog/
 
   - title: "Dandi"
     children:
