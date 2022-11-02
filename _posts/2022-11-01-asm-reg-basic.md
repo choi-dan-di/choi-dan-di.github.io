@@ -109,7 +109,7 @@ al은 가장 최하단 1바이트를 지정하는 이름이기 때문에 이 부
 
 ***
 
-_[소스코드 보러가기](https://github.com/choi-dan-di/study_assembly/tree/master/register)_
+_[소스코드 보러가기](https://github.com/choi-dan-di/study_assembly/blob/master/register/reg-mov.asm)_
 
 ***
 
