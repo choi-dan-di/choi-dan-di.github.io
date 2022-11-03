@@ -6,8 +6,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Categories"
-    url: /categories/
+  # - title: "Categories"
+  #   url: /categories/
 
   - title: "GitHub"
     url: https://github.com/choi-dan-di
