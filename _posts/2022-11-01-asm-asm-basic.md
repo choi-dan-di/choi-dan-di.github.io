@@ -1,11 +1,11 @@
 ---
-title: "어셈블리 언어(Assembly Language) 입문 & SASM 설치 및 세팅 방법"
+title: "[ASM] 어셈블리 언어(Assembly Language) 입문 & SASM 설치 및 세팅 방법"
 excerpt: "어셈블리 언어의 개념을 이해하고 SASM을 통해 컴퓨터가 어떻게 데이터를 관리하는 지에 대해 알아보기"
 
 categories:
   - Assembly Language
 tags:
-  - [study, asm, assembly]
+  - [study, asm, assembly, sasm]
 
 permalink: /asm/asm-basic/
 

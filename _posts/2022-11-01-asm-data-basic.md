@@ -1,11 +1,11 @@
 ---
-title: "컴퓨터 데이터 기초"
-excerpt: "컴퓨터가 데이터를 어떻게 저장하는지 알아보기"
+title: "[ASM] 컴퓨터 데이터 기초"
+excerpt: "비트와 바이트, 컴퓨터가 데이터를 어떻게 저장하는지 어셈블리 실습을 통해 알아보기"
 
 categories:
   - Assembly Language
 tags:
-  - [study, asm, assembly]
+  - [study, asm, assembly, bit, byte]
 
 permalink: /asm/data-basic/
 

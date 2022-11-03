@@ -1,11 +1,11 @@
 ---
-title: "변수 설정 & 메모리와 레지스터"
-excerpt: "변수를 설정해보고 메모리와 레지스터 간의 데이터 이동에 대해 알아보기"
+title: "[ASM] 변수 설정 & 메모리와 레지스터"
+excerpt: "변수를 설정해보고 메모리의 개념, 메모리와 레지스터 간의 데이터 이동, 섹션(data, bss)에 대해 알아보기"
 
 categories:
   - Assembly Language
 tags:
-  - [study, asm, assembly]
+  - [study, asm, assembly, section, memory, register, data, bss]
 
 permalink: /asm/reg-to-memory/
 

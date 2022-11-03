@@ -1,5 +1,5 @@
 ---
-title: "첫 글"
+title: "[Me-Log] 첫 글"
 excerpt: "드디어 내 첫 Devlog 오픈!"
 
 categories:
@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-10-31
-last_modified_at: 2022-11-01
+last_modified_at: 2022-11-03
 ---
 
 ## 👻 시작이 반

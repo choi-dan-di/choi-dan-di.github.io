@@ -1,5 +1,5 @@
 ---
-title: "마크다운(Markdown) 문법 정리"
+title: "[Markdown] 마크다운(Markdown) 문법 정리"
 excerpt: "마크다운(Markdown) 작성을 위한 문법 정리"
 
 categories:

@@ -6,14 +6,15 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Categories"
+    url: /categories/
+
   - title: "GitHub"
     url: https://github.com/choi-dan-di
 
   # - title: "Projects"
   #   url: /projects/
 
-  # - title: "Categories"
-  #   url: /categories/
 
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
@@ -30,6 +31,13 @@ categories:
         url: /basics/git/
       - title: "Markdown"
         url: /basics/md/
+
+  - title: "Engines"
+    children:
+      - title: "Unreal Engine"
+        url: /engines/unreal/
+      - title: "Unity"
+        url: /engines/unity/
   
   - title: "Projects"
     children:

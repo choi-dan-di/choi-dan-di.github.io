@@ -1,6 +1,6 @@
 ---
-title: "문자와 엔디언(Endian)"
-excerpt: "문자 타입과 배열 방법인 엔디언에 대해 알아보기"
+title: "[ASM] 문자와 엔디언(Endian)"
+excerpt: "문자 타입과 변수 복수 선언, 아스키코드, 배열 방법인 엔디언에 대해 알아보기"
 
 categories:
   - Assembly Language

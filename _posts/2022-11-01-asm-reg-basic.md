@@ -1,11 +1,11 @@
 ---
-title: "레지스터 기초"
-excerpt: "레지스터 개념과 데이터 처리 방식에 대해 알아보기"
+title: "[ASM] 레지스터 기초"
+excerpt: "mov 명령어, 레지스터 개념과 데이터 처리 방식에 대해 알아보기"
 
 categories:
   - Assembly Language
 tags:
-  - [study, asm, assembly]
+  - [study, asm, assembly, mov, register]
 
 permalink: /asm/reg-basic/
 
