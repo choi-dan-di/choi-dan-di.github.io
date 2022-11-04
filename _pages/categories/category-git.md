@@ -1,9 +1,9 @@
 ---
-title: "Git"
+title: "GitHub"
 layout: category
-permalink: /basics/git/
+permalink: /basics/github/
 author_profile: true
-taxonomy: Git
+taxonomy: GitHub
 sidebar:
   nav: "categories"
 ---

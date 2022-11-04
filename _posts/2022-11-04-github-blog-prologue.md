@@ -1,6 +1,6 @@
 ---
 title: "[GitHub Blog] #0. 깃헙 블로그로 결정한 이유"
-excerpt: "많고 많은~ 블로그중에~ 깃헙이! 제일! 잘!났!지!"
+excerpt: ""
 
 categories:
   - GitHub Blog

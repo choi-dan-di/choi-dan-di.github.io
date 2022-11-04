@@ -23,7 +23,7 @@ last_modified_at: 2022-11-03
 ***
 
 ### 🌱 문자 타입
-[여기서](https://choi-dan-di.github.io/asm/asm-basic/#-hello-world-%EC%B6%9C%EB%A0%A5%ED%95%B4%EB%B3%B4%EA%B8%B0) 한 번 다뤘었던 부분이다. 변수 선언은 이전 시간에 배웠던 상수 선언과 크게 다르지 않다.   
+[여기서](/asm/asm-basic/#-hello-world-%EC%B6%9C%EB%A0%A5%ED%95%B4%EB%B3%B4%EA%B8%B0) 한 번 다뤘었던 부분이다. 변수 선언은 이전 시간에 배웠던 상수 선언과 크게 다르지 않다.   
 
 ![Alt text](/assets/images/posts_img/char-and-endian/code-1.PNG)   
 ![Alt text](/assets/images/posts_img/char-and-endian/code-1-result.PNG)   
