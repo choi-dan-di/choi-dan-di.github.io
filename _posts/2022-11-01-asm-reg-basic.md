@@ -12,7 +12,7 @@ permalink: /asm/reg-basic/
 toc: true
 toc_sticky: true
 
-date: 2022-11-01
+date: 2022-11-01 02:02:02
 last_modified_at: 2022-11-01
 ---
 

@@ -12,7 +12,7 @@ permalink: /me/first-log/
 toc: true
 toc_sticky: true
 
-date: 2022-10-31
+date: 2022-10-31 00:01:01
 last_modified_at: 2022-11-03
 ---
 
