@@ -25,8 +25,8 @@ last_modified_at: 2022-11-03
 ### 🌱 문자 타입
 [여기서](/asm/asm-basic/#-hello-world-%EC%B6%9C%EB%A0%A5%ED%95%B4%EB%B3%B4%EA%B8%B0) 한 번 다뤘었던 부분이다. 변수 선언은 이전 시간에 배웠던 상수 선언과 크게 다르지 않다.   
 
-![Alt text](/assets/images/posts_img/char-and-endian/code-1.PNG)   
-![Alt text](/assets/images/posts_img/char-and-endian/code-1-result.PNG)   
+![Alt text](/assets/images/posts_img/basics/asm/char-and-endian/code-1.PNG)   
+![Alt text](/assets/images/posts_img/basics/asm/char-and-endian/code-1-result.PNG)   
 
 일반 상수 변수 선언과 똑같이 초기값이 정해져있는 변수이므로 data 영역에 선언을 해준다.   
 _**<u>PRINT_STRING</u>**_ 은 공식적인 어셈블리 코드가 아닌, 편리한 output을 위해 SASM이 만들어놓은 매크로이다.   
@@ -43,7 +43,7 @@ section .data
 
 그런데 이렇게 되면 메모리에는 어떻게 저장이 되는 지 궁금해졌다. 바로 코드를 디버깅해서 확인해보자.
 
-![Alt text](/assets/images/posts_img/char-and-endian/memory-a.PNG)   
+![Alt text](/assets/images/posts_img/basics/asm/char-and-endian/memory-a.PNG)   
 
 a는 여전히 첫 번째 위치를 가리키고 있지만 옆 주소의 공간에 다음 데이터들이 1바이트씩 **차례대로 할당**받은 것을 알 수 있다.   
 
@@ -54,7 +54,7 @@ a는 여전히 첫 번째 위치를 가리키고 있지만 옆 주소의 공간�
 ## 👻 문자 타입의 저장 방식
 그렇다면 문자 타입의 변수는 메모리에 어떻게 저장되는 지 확인해보자. 다시 디버깅을 시작한 다음 메모리 탭에서 **msg**를 입력하여 값을 살펴보자.   
 
-![Alt text](/assets/images/posts_img/char-and-endian/memory-msg.PNG)   
+![Alt text](/assets/images/posts_img/basics/asm/char-and-endian/memory-msg.PNG)   
 
 **Hello World** 문자 그 자체가 아닌 각 알파벳에 대응하는 **아스키 코드**값이 들어가있다.   
 
@@ -64,7 +64,7 @@ a는 여전히 첫 번째 위치를 가리키고 있지만 옆 주소의 공간�
 
 ### 🌱 ASCII Code
 **미국정보교환표준부호**(**A**merican **S**tandard **C**ode for **I**nformation **I**nterchange), 줄여서 **ASCII**는 영문 알파벳을 사용하는 대표적인 _문자 인코딩 방식_ 이다.
-![Alt text](/assets/images/posts_img/char-and-endian/ascii.png)   
+![Alt text](/assets/images/posts_img/basics/asm/char-and-endian/ascii.png)   
 아스키 코드는 굳이 외울 필요는 없고 필요할 때마다 표를 참고해서 의미를 파악하면 된다.   
 
 위에서 msg의 메모리를 살펴봤을 때 들어가있던 값들을 각각 변환시키면 ``` Hello World ```가 나오게 되는 것이다. 반대로 아스키 코드값을 변수값으로 선언한 뒤 출력을 해도 똑같은 결과값이 나올 것이다.
@@ -90,7 +90,7 @@ msg db 0x48,0x65,0x6c,0x6c,0x6f,0x20,0x57,0x6f,0x72,0x6c,0x64,0x0
 b dd 0x12345678
 ```
 
-![Alt text](/assets/images/posts_img/char-and-endian/memory-b.PNG)   
+![Alt text](/assets/images/posts_img/basics/asm/char-and-endian/memory-b.PNG)   
 
 1바이트씩 끊어서 뒤집어진 채로 데이터가 저장되어있는 것을 알 수 있다.
 
@@ -118,7 +118,7 @@ b dd 0x12345678
 ***
 
 ### 🌱 리틀 엔디언 VS 빅 엔디언
-![Alt text](/assets/images/posts_img/char-and-endian/endian.png)   
+![Alt text](/assets/images/posts_img/basics/asm/char-and-endian/endian.png)   
 
 해당 저장 방식은 개발 환경마다 다르다. 1인 개발 프로젝트를 진행하는 경우에는 굳이 신경을 쓰지 않아도 되지만, 여러사람의 협업을 통해 진행되는 프로젝트의 경우는 네트워크 전송 시 서버 환경에 따라 **데이터 분석 방식이 달라질 수 있으니 주의**해야한다.   
 

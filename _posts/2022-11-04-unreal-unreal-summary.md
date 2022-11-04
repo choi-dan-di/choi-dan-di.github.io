@@ -85,7 +85,7 @@ https://www.artstation.com "ArtStation")**과 **[스케치팹(Sketchfab)](https:
 
 #### 🪐 언리얼 엔진 프로젝트 구성 요소
 결론적으로 언리얼 엔진의 구성 요소는 다음과 같이 나타낼 수 있고, 레고 조립과 유사한 방법으로 제작된다는 것을 알 수 있다.   
-![Alt text](/assets/images/posts_img/unreal-summary/unreal-structure.jpg)   
+![Alt text](/assets/images/posts_img/engines/unreal/unreal-summary/unreal-structure.jpg)   
 
 ***
 

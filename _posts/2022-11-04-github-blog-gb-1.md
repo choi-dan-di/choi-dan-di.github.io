@@ -24,10 +24,10 @@ last_modified_at: 2022-11-04
 ***
 
 ### 🌱 Repository 생성
-![Alt Text](/assets/images/posts_img/gb-1/repo-1.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/repo-1.PNG)   
 대시보드 화면에서 좌측에 보면 ```Create repository``` 버튼이 있다. **클릭!!**   
 
-![Alt Text](/assets/images/posts_img/gb-1/repo-2.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/repo-2.PNG)   
 입력할 것은 딱히 없다. 대신 저장소 이름은 규칙이 있어서 이것만 지켜주면 된다.   
 
 > **username.github.io**
@@ -36,7 +36,7 @@ last_modified_at: 2022-11-04
 
 ```Add a README file```도 체크하자. 어차피 새 저장소를 만들면 리드미라는 파일을 생성한 후에 커밋을 하라고 하니 미리 만들어두자.   
 
-![Alt Text](/assets/images/posts_img/gb-1/repo-3.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/repo-3.PNG)   
 위의 화면이 나온다면 벌써 반은 왔다. 이제 잠시 새 탭을 열어 주소창에 ```https://username.github.io```를 입력해보자.   
 **README.md** 파일에 있는 내용이 출력되는 것을 볼 수 있을 것이다.
 
@@ -45,19 +45,19 @@ last_modified_at: 2022-11-04
 ### 🌱 Git을 이용해서 로컬 저장소와 연결짓기
 깃헙에 저장소(Repository)를 방금 만들었는데, 이건 **원격 저장소**라고 부른다. 깃이 만들어 둔 저장소에 내 파일들이 올라가있으니 현재 내 PC에는 파일들이 없는 상태다. 이제 이 원격 저장소에 있는 파일을 로컬 저장소로 복사를 해보자. **git command**는 ```clone```을 사용한다. (자세한 깃 커맨드는 따로 포스팅 할 예정이다.)   
 
-![Alt Text](/assets/images/posts_img/gb-1/repo-4.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/repo-4.PNG)   
 파일 탐색기를 열기 전 원격 저장소 경로 하나만 복사하고 진행하자.   
 
 이 파일들을 저장할 로컬 경로를 하나 지정한 다음 **cmd 창**을 켜서 해당 폴더로 경로를 옮겨주자. 아니면 해당 폴더 안, **파일 탐색기**에 cmd를 입력해서 창을 열어도 된다. 나는 D드라이브 > GitRepo 폴더 내에서 진행했다.   
 
 > C드라이브에서 D드라이브로 경로를 이동하고 싶으면 ```D:```를 입력하면 된다.
 
-![Alt Text](/assets/images/posts_img/gb-1/cmd-1.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/cmd-1.PNG)   
 
 이렇게 경로를 직접 이동해주거나   
 
-![Alt Text](/assets/images/posts_img/gb-1/cmd-2.PNG)   
-![Alt Text](/assets/images/posts_img/gb-1/cmd-3.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/cmd-2.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/cmd-3.PNG)   
 
 이렇게 파일 탐색기에서 직접 접근도 가능하다. (엔터 쳐야함)
 
@@ -69,7 +69,7 @@ git clone 복사한 주소
 
 그러고 로컬 저장소를 확인해보면   
 
-![Alt Text](/assets/images/posts_img/gb-1/local-1.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/local-1.PNG)   
 
 짜잔~ 원격 저장소에 있는 파일이 그대로 복사가 잘 되어 로컬 저장소에 저장이 된 걸 확인할 수 있다.
 
@@ -79,8 +79,8 @@ git clone 복사한 주소
 이제 로컬 저장소에 있는 파일을 수정한 다음 원격 저장소로 올려보자.   
 해당 폴더로 들어가서 ```Hello World```가 적힌 ```index.html``` 파일을 하나 만들어준다.   
 
-![Alt Text](/assets/images/posts_img/gb-1/cmd-21.PNG)   
-![Alt Text](/assets/images/posts_img/gb-1/cmd-22.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/cmd-21.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/cmd-22.PNG)   
 
 로컬 저장소에 생긴 걸 확인한 후   
 
@@ -92,7 +92,7 @@ git push -u origin main
 
 위 코드를 한 줄씩 차례대로 입력해주자.   
 
-![Alt Text](/assets/images/posts_img/gb-1/cmd-23.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/cmd-23.PNG)   
 
 난 에러가 났다.   
 찾아보니 이 게시글을 쓰면서 계정을 새로 하나 만들고 깃 초기세팅을 변경 없이 진행해서 난 권한 에러였다. 지금 포스팅을 하고 있는 깃헙 계정으로 새 저장소에 접근하려니 403 에러가 뜬 것이다. 난 remote url만 변경해서 비밀번호 다시 입력하고 push를 다시 진행시켰다.
@@ -103,7 +103,7 @@ git push -u origin main
 git remote set-url origin https://[USERNAME]@github.com/[USERNAME]/[REPOSITORY].git
 ```
 
-![Alt Text](/assets/images/posts_img/gb-1/repo-5.PNG)   
+![Alt Text](/assets/images/posts_img/projects/github-blog/gb-1/repo-5.PNG)   
 
 ```index.html```이 성공적으로 올라간 것을 볼 수 있다! (근데 왜 내 본계정으로 된거지..?)
 

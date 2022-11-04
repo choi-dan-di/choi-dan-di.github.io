@@ -24,7 +24,7 @@ last_modified_at: 2022-11-01
 
 ## 👻 비트와 바이트
 컴퓨터가 처리하는 데이터의 단위엔 **비트(Bit)**와 **바이트(Byte)**가 있다.   
-![Alt text](/assets/images/posts_img/data-basic/bit-byte.jpeg)   
+![Alt text](/assets/images/posts_img/basics/asm/data-basic/bit-byte.jpeg)   
 이전 시간에서 알 수 있었듯이 컴퓨터는 0과 1로만 이루어진 값으로 데이터를 처리한다.   
 **전원이 꺼지면 0**, **켜지면 1**이라는 수를 가지게 되고, 1비트당 하나의 수만 담을 수 있다.   
 이러한 비트가 8개 모이면 1바이트가 된다.
@@ -38,7 +38,7 @@ last_modified_at: 2022-11-01
 
 ### 🌱 양수와 음수
 양수는 이진수 그대로 표현하면 이상이 없다. 하지만 **음수**를 표현할 때에는 약간의 문제점이 발생하는데 아무래도 0과 1로만 표현하다보니 규칙을 따로 지정해두지 않으면 보기가 힘들지 않았을까 싶다.   
-![Alt text](/assets/images/posts_img/data-basic/calc.PNG)   
+![Alt text](/assets/images/posts_img/basics/asm/data-basic/calc.PNG)   
 우선 컴퓨터 내에 기본으로 있는 계산기를 연 후에, 좌측 상단 세 줄을 클릭하면 계산기의 종류를 바꿀 수 있다.   
 나는 비트 공부를 위해 프로그래머용으로 바꿔주었다. 이렇게 보면 비트에 대한 개념 이해가 눈으로 한 눈에 보여서 좋다.   
 

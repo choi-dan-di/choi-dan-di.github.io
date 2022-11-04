@@ -50,7 +50,7 @@ This is an H2
 
 적용예 :   
 
-![Alt text](/assets/images/posts_img/grammer/h2_example.PNG "정상적으로 출력되나 우측 TOC 때문에 이미지로 대체..^^")
+![Alt text](/assets/images/posts_img/basics/md/grammer/h2_example.PNG "정상적으로 출력되나 우측 TOC 때문에 이미지로 대체..^^")
 
 ***
 
@@ -68,7 +68,7 @@ This is an H2
 
 적용예 :   
 
-![Alt text](/assets/images/posts_img/grammer/header_example.PNG "정상적으로 출력되나 우측 TOC 때문에 이미지로 대체..^^")
+![Alt text](/assets/images/posts_img/basics/md/grammer/header_example.PNG "정상적으로 출력되나 우측 TOC 때문에 이미지로 대체..^^")
 
 ***
 
@@ -362,19 +362,19 @@ __double underscores__
 
 적용예 : 
 
-![Alt text](/assets/images/posts_img/grammer/짱구사진.jpg)
-![Alt text](/assets/images/posts_img/grammer/짱구사진.jpg "마우스 올리면 짱구사진이라는 글이 나옵니다.")
+![Alt text](/assets/images/posts_img/basics/md/grammer/짱구사진.jpg)
+![Alt text](/assets/images/posts_img/basics/md/grammer/짱구사진.jpg "마우스 올리면 짱구사진이라는 글이 나옵니다.")
 
 사이즈 조절 기능은 없기 때문에 ```<img width="" height="">``` 를 이용한다.
 
 적용예로 쓸 코드
 ```
-<img src="/assets/images/posts_img/grammer/짱구사진.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="짱구"><br/>
-<img src="/assets/images/posts_img/grammer/짱구사진.jpg" width="40%" height="30%" title="%(비율) 크기 설정" alt="짱구">
+<img src="/assets/images/posts_img/basics/md/grammer/짱구사진.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="짱구"><br/>
+<img src="/assets/images/posts_img/basics/md/grammer/짱구사진.jpg" width="40%" height="30%" title="%(비율) 크기 설정" alt="짱구">
 ```
 
-<img src="/assets/images/posts_img/grammer/짱구사진.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="짱구"><br/>
-<img src="/assets/images/posts_img/grammer/짱구사진.jpg" width="40%" height="30%" title="%(비율) 크기 설정" alt="짱구">
+<img src="/assets/images/posts_img/basics/md/grammer/짱구사진.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="짱구"><br/>
+<img src="/assets/images/posts_img/basics/md/grammer/짱구사진.jpg" width="40%" height="30%" title="%(비율) 크기 설정" alt="짱구">
 
 ***
 

@@ -41,14 +41,14 @@ SimpleASM의 줄임말로 4개의 어셈블리어(NASM, MASM, GAS 및 FASM)를 �
 [👉 SASM을 설치 할 수 있는 곳](https://dman95.github.io/SASM/english.html)   
 해당 링크로 들어가서 각 환경에 맞게 다운받아 설치하면 간단하다. :)
 
-![Alt text](/assets/images/posts_img/asm-basic/sasm.PNG "SASM 초기화면")
+![Alt text](/assets/images/posts_img/basics/asm/asm-basic/sasm.PNG "SASM 초기화면")
 👆 SASM 초기 화면
 
 ***
 
 ### 🌱 기본 세팅
 우선 SASM을 다운 받았으면 각 개발환경에 맞게 설정이 약간 필요하다.   
-![Alt text](/assets/images/posts_img/asm-basic/sasm-setting.PNG "SASM 세팅하기")   
+![Alt text](/assets/images/posts_img/basics/asm/asm-basic/sasm-setting.PNG "SASM 세팅하기")   
 > 1. 좌측 상단 Settings 👉 Settings를 클릭
 > 2. Build 탭으로 이동
 > 3. Mode를 개발 환경에 맞게 변경
@@ -58,11 +58,11 @@ SimpleASM의 줄임말로 4개의 어셈블리어(NASM, MASM, GAS 및 FASM)를 �
 
 ### 🌱 "Hello World!" 출력해보기
 다음으로 **create new project**를 클릭하면 기본 세팅된 코드로 새 파일이 생성된다.
-![Alt text](/assets/images/posts_img/asm-basic/sasm-basic-code.PNG)   
+![Alt text](/assets/images/posts_img/basics/asm/asm-basic/sasm-basic-code.PNG)   
 지금은 뭐가 무슨 의미를 뜻하는지 하나도 모르겠지만 앞으로 진행하다보면 자연스레 코드를 해석할 수 있게 된다.   
 일단 코딩의 가장 처음 스텝인 ```Hello World!``` 를 출력하는 코드를 작성하고 출력까지 시켜보자.   
-<img src="/assets/images/posts_img/asm-basic/helloworld.PNG" width="60%">
-<img src="/assets/images/posts_img/asm-basic/helloworld-output.PNG" width="35%">   
+<img src="/assets/images/posts_img/basics/asm/asm-basic/helloworld.PNG" width="60%">
+<img src="/assets/images/posts_img/basics/asm/asm-basic/helloworld-output.PNG" width="35%">   
 우선 위의 사진처럼 코드는 간단하다!   
 대충 코드에 대한 설명을 붙이자면   
 > **section .data**는 특정된 값이 들어있는 변수들이 저장되는 곳, **PRINT_STRING**은 SASM이 제공하는 문자열 출력 매크로 정도로 알아두면 된다.   
@@ -71,10 +71,10 @@ SimpleASM의 줄임말로 4개의 어셈블리어(NASM, MASM, GAS 및 FASM)를 �
 
 아무튼, 상단에 있는 **실행(<span style="color: green;">▶</span>)**을 클릭하게되면 SASM이 알아서 빌드하고 실행까지 시켜준다.   
 출력값이 잘 나오는 걸 확인한 후, 실행 파일(Save .exe)로도 저장해서 파일을 직접 실행시켜봤다.   
-![Alt text](/assets/images/posts_img/asm-basic/save-file.PNG)   
+![Alt text](/assets/images/posts_img/basics/asm/asm-basic/save-file.PNG)   
 실행 파일로 실행시키게 되면 실행이 끝난 후 파일창이 자동으로 닫히며 SASM 내의 Output에 결과값이 출력된다.   
 cmd 창에서 확인하고 싶다면 명령어를 사용해서 파일을 실행시키면 된다.   
-![Alt text](/assets/images/posts_img/asm-basic/helloworld-exe.PNG)   
+![Alt text](/assets/images/posts_img/basics/asm/asm-basic/helloworld-exe.PNG)   
 무야호! 아주 잘 된다. 이로써 SASM 세팅과 기본 사용법을 익히게 되었다.
 
 > 💡 <br>Save .exe의 단축키는 **Ctrl + Shife + E**, <br>Build and run은 **F9**, <br>Debug는 **F5**이다.
@@ -85,7 +85,7 @@ cmd 창에서 확인하고 싶다면 명령어를 사용해서 파일을 실행�
 우선 실행 파일이 어떤 구조를 가지고 실행이 되는 지 간단하게 알아보자.   
 
 ### 🌱 실행 파일 구조
-![Alt text](/assets/images/posts_img/asm-basic/exe-file-structure.png)   
+![Alt text](/assets/images/posts_img/basics/asm/asm-basic/exe-file-structure.png)   
 **실행 파일(.exe)의 구조**와 파일이 실행될 때 어떤 식으로 데이터가 전송되는 지 나타낸 그림이다.   
 File 부분은 말 그대로 실행 파일 구조라고 생각하면 된다.  
 그림에서 보이듯이 파일 내엔 여러가지 정보들이 들어있다.  
@@ -95,7 +95,7 @@ File 부분은 말 그대로 실행 파일 구조라고 생각하면 된다.
 ***
 
 ### 🌱 컴퓨터 구조
-![Alt text](/assets/images/posts_img/asm-basic/computer-structure.png)   
+![Alt text](/assets/images/posts_img/basics/asm/asm-basic/computer-structure.png)   
 **컴퓨터 구조**를 보기 편하게 나타낸 그림이다.   
 컴퓨터는 크게 **CPU, 메모리, 하드디스크** 이렇게 세 부분으로 나뉜다.   
 하드디스크보다 메모리가 물리적으로 CPU와 더 가까워 접근이 빨라 전송 속도가 빠르지만 데이터가 **휘발성**으로 저장되어 컴퓨터 전원이 끊기면 해당 데이터는 사라져버린다.   

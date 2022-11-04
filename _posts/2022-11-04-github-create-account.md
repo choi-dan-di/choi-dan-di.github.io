@@ -19,15 +19,15 @@ last_modified_at: 2022-11-04
 ## 👻 GitHub 계정 생성
 1. [깃헙 사이트](https://github.com/) 접속하기
 2. 우측 상단 ```Sign up``` 클릭   
-![Alt Text](/assets/images/posts_img/gb-1/sign-up-btn.PNG)   
+![Alt Text](/assets/images/posts_img/basics/github/create-account/sign-up-btn.PNG)   
 3. 하라는대로 입력한 후에 **Creat account**클릭하면 쉽게 생성 완료   
 **username**은 우리가 앞으로 깃헙을 사용하면서 쓸 아이디라고 생각하면 편하다. 깃헙 블로그를 만들 때 ```username.github.io```로 첫 주소가 만들어지니 참고하고, 추후에 변경 가능하다.
-![Alt Text](/assets/images/posts_img/gb-1/sign-up-1.PNG)   
+![Alt Text](/assets/images/posts_img/basics/github/create-account/sign-up-1.PNG)   
 마지막 질문은 깃 소식을 이메일로 받을건지 물어본 것 같은데 난 n으로 설정 ㅎ..
-![Alt Text](/assets/images/posts_img/gb-1/sign-up-2.PNG)   
+![Alt Text](/assets/images/posts_img/basics/github/create-account/sign-up-2.PNG)   
 ~~나선 은하를 어떻게 알아요..~~   
 4. 이메일 인증한 후에 화면 넘기면 요런 게 나오는데 생략해도 무관하다.
-![Alt Text](/assets/images/posts_img/gb-1/sign-up-3.PNG)   
+![Alt Text](/assets/images/posts_img/basics/github/create-account/sign-up-3.PNG)   
 
 다 하고 나면 우주 속으로 빨려들어가는 느낌 나면서 계정 생성 완료!
 
