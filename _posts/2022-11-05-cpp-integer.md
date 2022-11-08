@@ -7,7 +7,7 @@ categories:
 tags:
   - [C/C++, C++, Visual Studio, variable, integer, overflow, underflow]
 
-permalink: /cpp/variable/
+permalink: /cpp/integer/
 
 toc: true
 toc_sticky: true
@@ -24,7 +24,7 @@ last_modified_at: 2022-11-05 01:27:19
 > **디스어셈블리** 여는 법   
 ``` 디버그 👉 창 👉 디스어셈블리 ``` 혹은 단축키 ``` Ctrl+Alt+D ```를 입력하면 쉽게 창을 열 수 있다.
 
-![Alt Text](/assets/images/posts_img/basics/cpp/variable/disassembly.PNG)   
+![Alt Text](/assets/images/posts_img/basics/cpp/variable/integer/disassembly.PNG)   
 
 이러면 우리가 이제껏 공부해왔던 어셈블리어가 어떻게 기계어와 일대일 대응을 하는지, 그리고 프로젝트가 어떤 과정으로 진행되는 지에 대해 대략적으로 알 수 있다. 크게 중요한 건 아니지만 개념 이해는 필수!
 

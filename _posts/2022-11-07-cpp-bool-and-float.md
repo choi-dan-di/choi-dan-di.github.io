@@ -68,7 +68,7 @@ ex) -3.375라는 값을 저장
 
 > 💡 디버그 중, 조사식에서 해당 메모리 주소를 알고 싶을 때 : ``` & ```를 앞에 붙인다.   
 
-![Alt Text](/assets/images/posts_img/basics/cpp/bool-and-float/memory.PNG)   
+![Alt Text](/assets/images/posts_img/basics/cpp/variable/bool-and-float/memory.PNG)   
 
 > 💡 메모리 창 여는 법   
 ``` 디버그 👉 창 👉 메모리 ``` 혹은 단축키 ``` Ctrl+Alt+M ```
