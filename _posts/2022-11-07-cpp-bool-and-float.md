@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-11-07 16:57:13
-last_modified_at: 2022-11-07 16:57:16
+last_modified_at: 2022-11-10 22:57:14
 ---
 
 
@@ -87,7 +87,7 @@ ex) -3.375라는 값을 저장
 
 ***
 
-_[소스코드 보러가기](https://github.com/choi-dan-di/study_cpp/tree/main/variable/bool_and_float)_
+_[소스코드 보러가기](https://github.com/choi-dan-di/study_cpp/tree/main/variable/bool-and-float)_
 
 ***
 
