@@ -5,7 +5,7 @@ excerpt: "조건에 따라 다양한 분기로 나뉘는 분기문에 대해 알
 categories:
   - C/C++
 tags:
-  - [C/C++, C++, Visual Studio, switch, case, which, if, branch]
+  - [C/C++, C++, Visual Studio, switch, case, if, branch]
 
 permalink: /cpp/branch/
 
