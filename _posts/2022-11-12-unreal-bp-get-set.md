@@ -28,9 +28,9 @@ last_modified_at: 2022-11-12 20:10:32
 ### 🌱 Set
 먼저 ``` Hp ```라는 변수의 값을 설정하는 방법에 대해 알아보자. **우클릭** 후 ``` set hp ```를 검색해 노드를 하나 만들어보자.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-get-set/set-hp.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-get-set/set-hp.PNG)   
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-get-set/set-box.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-get-set/set-box.PNG)   
 
 ``` Hp ``` 변수의 값을 설정할 수 있는 노드가 만들어졌다. 가운데 숫자를 입력함으로써 해당 변수의 값을 설정할 수 있게 된다.
 
@@ -42,7 +42,7 @@ last_modified_at: 2022-11-12 20:10:32
 ### 🌱 Get
 이제 ``` Hp ```라는 변수의 값을 가져오는 방법에 대해 알아보자. Set과 똑같이 우클릭 후 ``` get hp ```를 검색해 노드를 하나 생성하면 된다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-get-set/get-box.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-get-set/get-box.PNG)   
 
 Get은 Set과 다르게 값을 가져오기만 하면 되는 것이라 입력받는 부분이 딱히 없다. 그래서 값을 가져와 출력할 이벤트만 지정해주면 된다.
 
@@ -54,17 +54,17 @@ Get은 Set과 다르게 값을 가져오기만 하면 되는 것이라 입력받
 ### 🌱 변수값 설정 후 출력하기
 텍스트를 출력하는 ``` Print Text ```와 연결하여 게임 시작 시 hp를 설정하고 값을 출력해보자.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-get-set/set-get.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-get-set/set-get.PNG)   
 
 Get 노드를 Print Text에 연결하면 중간에 ``` To Text ```라는 새로운 노드가 생성되는데, **타입 캐스팅**을 의미한다.
 
 컴파일 및 세이브 후 프로젝트로 돌아가 실행하면 Set 노드에서 설정했던 Hp의 값이 출력되는 것을 확인할 수 있다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-get-set/result.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-get-set/result.PNG)   
 
 Set 노드에서 값을 바로 뽑아 출력도 가능하다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-get-set/result2.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-get-set/result2.PNG)   
 
 ***
 
@@ -72,10 +72,10 @@ Set 노드에서 값을 바로 뽑아 출력도 가능하다.
 > MaxHp 변수를 새로 생성한 후 Default Value를 200으로 두고, Hp의 값을 MaxHp의 값으로 세팅하고 출력하기
 
 - 블루프린트   
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-get-set/result3.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-get-set/result3.PNG)   
 
 - 결과   
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-get-set/result4.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-get-set/result4.PNG)   
 
 > 모든 노드는 이벤트 노드와 연결되어야 실행이 된다.
 
@@ -86,7 +86,7 @@ Set 노드에서 값을 바로 뽑아 출력도 가능하다.
 
 ***
 
-_[소스코드 보러가기](https://github.com/choi-dan-di/study_ue/tree/main/data-control/BP5_Variables)_
+_[소스코드 보러가기](https://github.com/choi-dan-di/study_ue/tree/main/UE5/data-control/BP_Variables)_
 
 ***
 

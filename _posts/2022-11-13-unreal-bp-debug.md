@@ -21,7 +21,7 @@ last_modified_at: 2022-11-13 19:27:18
 
 각각 80과 100의 값을 가지는 ``` Hp ```와 ``` MaxHp ```를 만들어 나누어보자.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-debug/print.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-debug/print.PNG)   
 
 값을 출력하려면 **Print Text** 노드를 이용하여 결과값을 확인하면, 80%가 나와야하지만 ``` Hp = 0% ```로 출력된다. **디버깅**을 사용하면 어디서 잘못된 계산이 됐는지 확인할 수 있다.
 
@@ -30,15 +30,15 @@ last_modified_at: 2022-11-13 19:27:18
 ### 🌱 브레이크 포인트 잡기
 원하는 노드를 선택한 후 ``` F9 ```를 누르면 **브레이크 포인트**를 잡거나 풀 수 있다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-debug/break-point.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-debug/break-point.PNG)   
 
 브레이크 포인트를 잡은 후 실행시키면 해당 지점에서 코드 진행이 멈추게 된다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-debug/break-point2.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-debug/break-point2.PNG)   
 
 다음 진행을 알고 싶으면 ``` F10 ```을 누르면 된다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-debug/break-point3.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-debug/break-point3.PNG)   
 
 포인트가 다음으로 진행된 것을 볼 수 있다. 디버깅 상태에서 핀에 마우스 오버를 하면 값을 알 수 있다.
 

@@ -19,17 +19,17 @@ last_modified_at: 2022-11-12 21:57:51
 ## 👻 사칙 연산
 이번 시간에는 블루프린트에서 **사칙 연산** 하는 법을 알아보자. 노드 호출은 쉽다. 화면에 **우클릭** 후 각각의 **기호**를 입력하면 된다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-calculation/add.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-calculation/add.PNG)   
 
 기호는 ``` + ```, ``` - ```, ``` * ```, ``` / ```를 사용하고 ``` Operators ```에 뜨는 함수를 클릭하면된다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-calculation/arithmetic.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-calculation/arithmetic.PNG)   
 
 모두 두 개의 값을 받아 하나의 출력값을 가지며 입력값의 핀을 우클릭하여 **입력받을 값의 타입**을 설정할 수 있다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-calculation/convert-pin.PNG)  
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-calculation/convert-pin.PNG)  
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-calculation/add-integer.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-calculation/add-integer.PNG)   
 
 위 캡쳐처럼 ``` Integer ``` 타입으로 변환해주면 정수 덧셈이 가능해지는 노드를 만들 수 있다. Get 노드를 이용하여 바로 연결시켜주면 알아서 입력값으로 들어가고 타입이 설정된다.
 
@@ -48,18 +48,18 @@ last_modified_at: 2022-11-12 21:57:51
 
 > ``` > ```, ``` >= ```, ``` < ```, ``` <= ```, ``` == ```, ``` != ``` 등의 기호를 검색하면 웬만한 비교 연산은 모두 가능하다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-calculation/comparisons.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-calculation/comparisons.PNG)   
 
 Hp와 0을 비교하여 0보다 작거나 같으면 죽음을, 0보다 크면 살았음을 출력하는 간단한 예제를 만들어보자.
 
 - 블루프린트   
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-calculation/comparison.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-calculation/comparison.PNG)   
 
 - 결과   
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-calculation/comp-result.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-calculation/comp-result.PNG)   
 
 - Hp의 Default Value를 0으로 수정한 후의 결과   
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-calculation/comp-result2.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-calculation/comp-result2.PNG)   
 
 > 💡 **branch**   
 분기문을 의미하는 브랜치 노드는 비교 연산과 잘 쓰인다. **B를 누른 후 좌클릭**하면 노드를 바로 생성할 수 있다.
@@ -69,7 +69,7 @@ Hp와 0을 비교하여 0보다 작거나 같으면 죽음을, 0보다 크면 �
 ## 👻 논리 연산
 여러가지 조건을 한 번에 비교할 때 사용한다. 호출 방법은 위의 연산과 동일하게 **우클릭**후 검색하면 된다. 대표적으로 ``` not ```, ``` and ```, ``` or ```이 있고 검색시엔 해당 단어 뒤에 ``` bool ```을 붙여주면 된다. 마찬가지로 **Add pin plus**를 클릭하면 추가로 입력값을 받을 수 있다.
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-calculation/logicals.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-calculation/logicals.PNG)   
 
 조건을 만족하면 **참**, 조건을 만족하지 않으면 **거짓**을 리턴한다.
 
@@ -80,7 +80,7 @@ Hp와 0을 비교하여 0보다 작거나 같으면 죽음을, 0보다 크면 �
 
 ***
 
-_[소스코드 보러가기](https://github.com/choi-dan-di/study_ue/tree/main/data-control/BP5_Variables)_
+_[소스코드 보러가기](https://github.com/choi-dan-di/study_ue/tree/main/UE5/data-control/BP_Variables)_
 
 ***
 

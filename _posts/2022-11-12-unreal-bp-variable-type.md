@@ -21,7 +21,7 @@ last_modified_at: 2022-11-12 19:30:49
 
 블루프린트 화면에서 좌측의 ``` VARIABLES ```에서 **+**버튼을 눌러 변수를 추가할 수 있다.   
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-variable-type/create-variable.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-variable-type/create-variable.PNG)   
 
 변수는 이름과 타입을 지정해줘야하고, ``` F2 ```로 간단하게 변수의 이름을 변경할 수 있다. 변수 이름을 지정할 땐 따로 규칙이 정해져있지 않아 큰 이상만 없으면 대체로 잘 만들어진다.   
 컴파일과 세이브를 해야 사용할 수 있다.
@@ -42,7 +42,7 @@ last_modified_at: 2022-11-12 19:30:49
 - ``` String ``` : 문자열. 일반적인 문자열 (ex. 플레이어명)
 - ``` Text ``` : 문자열. 퀘스트 설명같이 다국어 변환이 필요한 경우
 
-![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/bp-variable-type/variables.PNG)   
+![Alt Text](/assets/images/posts_img/engines/unreal/blueprint/data-control/bp-variable-type/variables.PNG)   
 
 위 캡쳐의 변수명들은 대표적으로 사용되는 예시를 든 것들이다.
 
