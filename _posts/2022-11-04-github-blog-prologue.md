@@ -1,6 +1,6 @@
 ---
 title: "[GitHub Blog] #0. 깃헙 블로그로 결정한 이유"
-excerpt: ""
+excerpt: "깃헙 블로그를 선택한 이유와 타 플랫폼과의 장단점 비교"
 
 categories:
   - GitHub Blog
@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2022-11-04 03:01:01
-last_modified_at: 2022-11-04
+last_modified_at: 2022-11-13 16:50:32
 ---
  
 ## 👻 GitHub Blog란?
