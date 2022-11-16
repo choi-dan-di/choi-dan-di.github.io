@@ -116,7 +116,7 @@ LABEL_EQUAL_END2:
 
 ***
 
-_[소스코드 보러가기](https://github.com/choi-dan-di/study_assembly/blob/main/branch/branch.asm)_
+_[소스코드 보러가기](https://github.com/choi-dan-di/study_assembly/blob/main/branch.asm)_
 
 ***
 

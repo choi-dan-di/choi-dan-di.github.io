@@ -203,7 +203,7 @@ xor al, bl    ; 둘의 값이 다르면 1, 같으면 0
 
 ***
 
-_[소스코드 보러가기](https://github.com/choi-dan-di/study_assembly/blob/main/calculation/calculation.asm)_
+_[소스코드 보러가기](https://github.com/choi-dan-di/study_assembly/blob/main/calculation.asm)_
 
 ***
 
