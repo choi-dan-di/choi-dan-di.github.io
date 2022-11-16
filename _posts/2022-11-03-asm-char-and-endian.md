@@ -12,8 +12,8 @@ permalink: /asm/char-and-endian/
 toc: true
 toc_sticky: true
 
-date: 2022-11-03 05:00:00
-last_modified_at: 2022-11-03
+date: 2022-11-03 05:00:00+0900
+last_modified_at: 022-11-03 05:00:00+0900
 ---
 
 ## 👻 변수 선언

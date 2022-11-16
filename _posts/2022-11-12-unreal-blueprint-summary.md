@@ -12,8 +12,8 @@ permalink: /unreal/blueprint-summary/
 toc: true
 toc_sticky: true
 
-date: 2022-11-12 19:03:50
-last_modified_at: 2022-11-12 19:03:52
+date: 2022-11-12 19:03:50+0900
+last_modified_at: 2022-11-12 19:03:52+0900
 ---
 
 ## 👻 블루프린트란?

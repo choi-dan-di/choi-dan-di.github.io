@@ -12,8 +12,8 @@ permalink: /cpp/calculation/
 toc: true
 toc_sticky: true
 
-date: 2022-11-08 18:41:58
-last_modified_at: 2022-11-08 18:42:00
+date: 2022-11-08 18:41:58+0900
+last_modified_at: 2022-11-08 18:42:00+0900
 ---
 
 

@@ -12,8 +12,8 @@ permalink: /asm/reg-to-memory/
 toc: true
 toc_sticky: true
 
-date: 2022-11-02
-last_modified_at: 2022-11-02
+date: 2022-11-02 00:00:00+0900
+last_modified_at: 2022-11-02 00:00:00+0900
 ---
 
 ## 👻 메모리란?

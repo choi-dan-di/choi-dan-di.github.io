@@ -12,8 +12,8 @@ permalink: /unreal/bp-min-max-clamp/
 toc: true
 toc_sticky: true
 
-date: 2022-11-13 20:57:05
-last_modified_at: 2022-11-13 20:57:08
+date: 2022-11-13 20:57:05+0900
+last_modified_at: 2022-11-13 20:57:08+0900
 ---
 
 ## 👻 연습 문제

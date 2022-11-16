@@ -12,8 +12,8 @@ permalink: /cpp/bool-and-float/
 toc: true
 toc_sticky: true
 
-date: 2022-11-07 16:57:13
-last_modified_at: 2022-11-10 22:57:14
+date: 2022-11-07 16:57:13+0900
+last_modified_at: 2022-11-10 22:57:14+0900
 ---
 
 

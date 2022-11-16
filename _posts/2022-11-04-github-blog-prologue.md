@@ -12,8 +12,8 @@ permalink: /github-blog/prologue/
 toc: true
 toc_sticky: true
 
-date: 2022-11-04 03:01:01
-last_modified_at: 2022-11-13 16:50:32
+date: 2022-11-04 03:01:01+0900
+last_modified_at: 2022-11-13 16:50:32+0900
 ---
  
 ## 👻 GitHub Blog란?

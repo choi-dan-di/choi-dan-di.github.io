@@ -12,8 +12,8 @@ permalink: /cpp/branch/
 toc: true
 toc_sticky: true
 
-date: 2022-11-11 15:06:34
-last_modified_at: 2022-11-11 15:06:36
+date: 2022-11-11 15:06:34+0900
+last_modified_at: 2022-11-11 15:06:36+0900
 ---
 
 ## 👻 분기문

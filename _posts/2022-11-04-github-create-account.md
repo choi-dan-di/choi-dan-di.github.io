@@ -12,8 +12,8 @@ permalink: /github/create-account/
 toc: true
 toc_sticky: true
 
-date: 2022-11-04 01:01:01
-last_modified_at: 2022-11-04
+date: 2022-11-04 01:01:01+0900
+last_modified_at: 2022-11-04 01:01:01+0900
 ---
 
 ## 👻 GitHub 계정 생성

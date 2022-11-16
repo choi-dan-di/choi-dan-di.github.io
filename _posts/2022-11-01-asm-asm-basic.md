@@ -12,8 +12,8 @@ permalink: /asm/asm-basic/
 toc: true
 toc_sticky: true
 
-date: 2022-11-01 00:01:01
-last_modified_at: 2022-11-01
+date: 2022-11-01 00:01:01+0900
+last_modified_at: 2022-11-01 00:01:01+0900
 ---
 
 ## 👻 어셈블리 언어란?

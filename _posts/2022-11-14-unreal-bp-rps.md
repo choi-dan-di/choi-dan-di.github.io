@@ -12,8 +12,8 @@ permalink: /unreal/bp-rps/
 toc: true
 toc_sticky: true
 
-date: 2022-11-14 21:48:40
-last_modified_at: 2022-11-14 21:48:42
+date: 2022-11-14 21:48:40+0900
+last_modified_at: 2022-11-14 21:48:42+0900
 ---
 
 ## 👻 가위바위보 구현하기

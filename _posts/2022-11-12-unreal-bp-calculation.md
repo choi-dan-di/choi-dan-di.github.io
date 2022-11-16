@@ -12,8 +12,8 @@ permalink: /unreal/bp-calculation/
 toc: true
 toc_sticky: true
 
-date: 2022-11-12 21:57:49
-last_modified_at: 2022-11-12 21:57:51
+date: 2022-11-12 21:57:49+0900
+last_modified_at: 2022-11-12 21:57:51+0900
 ---
 
 ## 👻 사칙 연산

@@ -12,8 +12,8 @@ permalink: /unreal/bp-enum/
 toc: true
 toc_sticky: true
 
-date: 2022-11-14 21:32:23
-last_modified_at: 2022-11-14 21:32:26
+date: 2022-11-14 21:32:23+0900
+last_modified_at: 2022-11-14 21:32:26+0900
 ---
 
 ## 👻 열거형을 사용하는 이유

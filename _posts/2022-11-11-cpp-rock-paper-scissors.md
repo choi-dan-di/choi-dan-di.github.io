@@ -12,8 +12,8 @@ permalink: /cpp/rock-paper-scissors/
 toc: true
 toc_sticky: true
 
-date: 2022-11-11 17:46:12
-last_modified_at: 2022-11-11 17:46:14
+date: 2022-11-11 17:46:12+0900
+last_modified_at: 2022-11-11 17:46:14+0900
 ---
 
 ## 👻 난수 생성 함수 - rand()

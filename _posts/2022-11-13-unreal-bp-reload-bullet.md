@@ -12,8 +12,8 @@ permalink: /unreal/bp-reload-bullet/
 toc: true
 toc_sticky: true
 
-date: 2022-11-13 18:08:03
-last_modified_at: 2022-11-13 18:08:05
+date: 2022-11-13 18:08:03+0900
+last_modified_at: 2022-11-13 18:08:05+0900
 ---
 
 ## 👻 총알 재장전 기능 만들기

@@ -12,8 +12,8 @@ permalink: /cpp/integer/
 toc: true
 toc_sticky: true
 
-date: 2022-11-05 01:27:16
-last_modified_at: 2022-11-05 01:27:19
+date: 2022-11-05 01:27:16+0900
+last_modified_at: 2022-11-05 01:27:19+0900
 ---
 
 ## 👻 들어가기에 앞서

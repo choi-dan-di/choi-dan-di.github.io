@@ -12,8 +12,8 @@ permalink: /cpp/scope-variables/
 toc: true
 toc_sticky: true
 
-date: 2022-11-14 17:15:12
-last_modified_at: 2022-11-14 17:15:14
+date: 2022-11-14 17:15:12+0900
+last_modified_at: 2022-11-14 17:15:14+0900
 ---
 
 ## 👻 전역 변수(global variable)

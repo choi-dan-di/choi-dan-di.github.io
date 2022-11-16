@@ -12,8 +12,8 @@ permalink: /unreal/bp-variable-type/
 toc: true
 toc_sticky: true
 
-date: 2022-11-12 19:30:47
-last_modified_at: 2022-11-12 19:30:49
+date: 2022-11-12 19:30:47+0900
+last_modified_at: 2022-11-12 19:30:49+0900
 ---
 
 ## 👻 변수 생성하기

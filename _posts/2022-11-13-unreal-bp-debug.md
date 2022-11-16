@@ -12,8 +12,8 @@ permalink: /unreal/bp-debug/
 toc: true
 toc_sticky: true
 
-date: 2022-11-13 19:27:15
-last_modified_at: 2022-11-13 19:27:18
+date: 2022-11-13 19:27:15+0900
+last_modified_at: 2022-11-13 19:27:18+0900
 ---
 
 ## 👻 디버깅

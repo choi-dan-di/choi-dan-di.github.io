@@ -12,8 +12,8 @@ permalink: /github-blog/gb-3/
 toc: true
 toc_sticky: true
 
-date: 2022-11-13 16:48:42
-last_modified_at: 2022-11-13 16:48:45
+date: 2022-11-13 16:48:42+0900
+last_modified_at: 2022-11-13 16:48:45+0900
 ---
 
 ## 👻 기본 세팅하기

@@ -12,8 +12,8 @@ permalink: /cpp/function-final/
 toc: true
 toc_sticky: true
 
-date: 2022-11-16 20:17:45
-last_modified_at: 2022-11-16 20:17:47
+date: 2022-11-16 20:37:48+0900
+last_modified_at: 2022-11-16 20:37:52+0900
 ---
 
 ## 👻 오버로딩

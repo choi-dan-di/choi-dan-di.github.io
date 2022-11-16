@@ -12,8 +12,8 @@ permalink: /cpp/data-tip/
 toc: true
 toc_sticky: true
 
-date: 2022-11-10 22:56:57
-last_modified_at: 2022-11-10 22:56:59
+date: 2022-11-10 22:56:57+0900
+last_modified_at: 2022-11-10 22:56:59+0900
 ---
 
 ## 👻 변수의 유효범위

@@ -12,8 +12,8 @@ permalink: /asm/function/
 toc: true
 toc_sticky: true
 
-date: 2022-11-16 17:28:26
-last_modified_at: 2022-11-16 17:28:28
+date: 2022-11-16 17:28:26+0900
+last_modified_at: 2022-11-16 17:28:28+0900
 ---
 
 ## 👻 함수(Function)

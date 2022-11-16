@@ -12,8 +12,8 @@ permalink: /github-blog/gb-1/
 toc: true
 toc_sticky: true
 
-date: 2022-11-04 05:05:05
-last_modified_at: 2022-11-04
+date: 2022-11-04 05:05:05+0900
+last_modified_at: 2022-11-04 05:05:05+0900
 ---
 
 ## 👻 GitHub Blog 만들기

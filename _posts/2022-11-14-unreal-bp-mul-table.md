@@ -12,8 +12,8 @@ permalink: /unreal/bp-mul-table/
 toc: true
 toc_sticky: true
 
-date: 2022-11-14 19:30:10
-last_modified_at: 2022-11-14 19:30:12
+date: 2022-11-14 19:30:10+0900
+last_modified_at: 2022-11-14 19:30:12+0900
 ---
 
 ## 👻 구구단 구현하기

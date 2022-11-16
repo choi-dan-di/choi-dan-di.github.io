@@ -12,8 +12,8 @@ permalink: /unreal/bp-get-set/
 toc: true
 toc_sticky: true
 
-date: 2022-11-12 20:10:29
-last_modified_at: 2022-11-12 20:10:32
+date: 2022-11-12 20:10:29+0900
+last_modified_at: 2022-11-12 20:10:32+0900
 ---
 
 ## 👻 Get과 Set

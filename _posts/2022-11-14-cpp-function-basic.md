@@ -12,8 +12,8 @@ permalink: /cpp/function-basic/
 toc: true
 toc_sticky: true
 
-date: 2022-11-14 15:35:13
-last_modified_at: 2022-11-14 15:35:15
+date: 2022-11-14 15:35:13+0900
+last_modified_at: 2022-11-14 15:35:15+0900
 ---
 
 ## 👻 함수란?

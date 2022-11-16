@@ -12,8 +12,8 @@ permalink: /cpp/star-and-multiplication-table/
 toc: true
 toc_sticky: true
 
-date: 2022-11-11 17:08:51
-last_modified_at: 2022-11-11 17:08:53
+date: 2022-11-11 17:08:51+0900
+last_modified_at: 2022-11-11 17:08:53+0900
 ---
 
 ## 👻 입출력 알아보기

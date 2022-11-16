@@ -12,8 +12,8 @@ permalink: /github/difference-git-github/
 toc: true
 toc_sticky: true
 
-date: 2022-11-09 21:06:39
-last_modified_at: 2022-11-09 21:06:42
+date: 2022-11-09 21:06:39+0900
+last_modified_at: 2022-11-09 21:06:42+0900
 ---
 
 ## 👻 GitHub이란?

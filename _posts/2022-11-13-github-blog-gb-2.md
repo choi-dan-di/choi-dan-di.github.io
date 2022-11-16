@@ -12,8 +12,8 @@ permalink: /github-blog/gb-2/
 toc: true
 toc_sticky: true
 
-date: 2022-11-13 15:36:47
-last_modified_at: 2022-11-13 16:47:53
+date: 2022-11-13 15:36:47+0900
+last_modified_at: 2022-11-13 16:47:53+0900
 ---
 
 ## 👻 jekyell이란?
