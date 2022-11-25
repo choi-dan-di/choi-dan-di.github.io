@@ -27,6 +27,8 @@ categories:
         url: /basics/cpp/
       - title: "C#"
         url: /basics/csharp/
+      - title: "Algorithm"
+        url: /basics/algorithm/
       - title: "GitHub"
         url: /basics/github/
       - title: "Markdown"
