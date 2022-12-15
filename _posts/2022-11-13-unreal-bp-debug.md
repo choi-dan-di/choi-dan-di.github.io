@@ -1,5 +1,5 @@
 ---
-title: "[Unreal Engine] BP - 디버깅"
+title: "[Unreal Engine] BP - 디버깅(Debugging)"
 excerpt: "블루프린트로 디버깅하는 방법 알아보기"
 
 categories:
