@@ -12,8 +12,8 @@ permalink: /cpp/template-basic/
 toc: true
 toc_sticky: true
 
-date: 2022-12-16 19:01:52+0900
-last_modified_at: 2022-12-16 19:01:56+0900
+date: 2022-12-16 19:52:59+0900
+last_modified_at: 2022-12-16 19:53:03+0900
 ---
 
 ## 👻 템플릿
