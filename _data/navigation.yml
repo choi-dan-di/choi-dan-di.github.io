@@ -33,6 +33,8 @@ categories:
         url: /basics/github/
       - title: "Markdown"
         url: /basics/md/
+      - title: "DirectX"
+        url: /basics/directx/
 
   - title: "Engines"
     children:
