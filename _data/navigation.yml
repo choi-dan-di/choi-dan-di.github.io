@@ -49,6 +49,8 @@ categories:
     children:
       - title: "GitHub Blog"
         url: /projects/github-blog/
+      - title: "Paper2D Training"
+        url: /projects/paper2d-training/
 
   - title: "Dandi"
     children:
