@@ -82,7 +82,7 @@ last_modified_at: 2023-01-06 15:54:03+0900
 
 ***
 
-_[소스코드 보러가기](https://github.com/choi-dan-di/study_ue/tree/main/UE5/oop/BP_Structure)_
+_[소스코드 보러가기](https://github.com/choi-dan-di/study_ue/tree/main/UE5/vector-rotator/BP_Structure)_
 
 ***
 
