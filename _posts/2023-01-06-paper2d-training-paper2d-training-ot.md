@@ -28,6 +28,7 @@ last_modified_at: 2023-01-06 22:26:28+0900
   - RAM : 16.0GB
 - 엔진
   - Unreal Engine 5.0.3
+  - Blueprint
 - 버전 관리
   - GitHub
 - 사용된 자료는 인터넷 강의 수업 자료 이용
