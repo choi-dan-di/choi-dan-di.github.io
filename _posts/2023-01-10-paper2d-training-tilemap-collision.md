@@ -5,7 +5,7 @@ excerpt: "타일맵으로 교체하고 충돌 적용하기"
 categories:
   - Paper2D Training
 tags:
-  - [Paper2D Training, Paper2D, 2d, ue, ue5, unreal engine, tilemap, map]
+  - [Paper2D Training, Paper2D, 2d, ue, ue5, unreal engine, tilemap, map, collision]
 
 permalink: /paper2d-training/tilemap-collision/
 
