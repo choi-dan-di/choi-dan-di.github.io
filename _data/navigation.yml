@@ -51,6 +51,8 @@ categories:
         url: /projects/github-blog/
       - title: "Paper2D Training"
         url: /projects/paper2d-training/
+      - title: "3D Game Training"
+        url: /projects/3d-game-training/
 
   - title: "Dandi"
     children:
