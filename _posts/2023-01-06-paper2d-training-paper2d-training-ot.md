@@ -30,7 +30,7 @@ last_modified_at: 2023-01-11 22:28:08+0900
   - Unreal Engine 5.0.3
   - Blueprint
 - 버전 관리
-  - GitHub
+  - [GitHub](https://github.com/choi-dan-di/Study_UE/tree/main/UE5/UE5_Paper2D)
 - 사용된 자료는 인터넷 강의 수업 자료 이용
 - 개발 기간
   - 2023.01.06 ~ 2023.01.11
