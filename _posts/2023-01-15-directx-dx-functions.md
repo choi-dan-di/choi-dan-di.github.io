@@ -5,7 +5,7 @@ excerpt: "다양한 기능을 하는 대표 함수들에 대해 알아보기"
 categories:
   - DirectX
 tags:
-  - [DirectX, dx, dx12, graphics, rendering pipeline, pipeline, summary, device, swapchain, descriptorheap, commandqueue, constant buffer, root signature]
+  - [DirectX, dx, dx12, graphics, rendering pipeline, pipeline, summary, device, swapchain, descriptorheap, commandqueue, constant buffer, root signature, table desc heap, index buffer, mesh, shader, texture mapping, texture, uv, depth stencil view]
 
 permalink: /directx/dx-functions/
 
