@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2023-01-11 22:23:37+0900
-last_modified_at: 2023-01-11 22:23:40+0900
+last_modified_at: 2023-01-17 22:11:55+0900
 ---
 
 ## 👻 들어가기에 앞서
@@ -33,7 +33,7 @@ last_modified_at: 2023-01-11 22:23:40+0900
   - [GitHub](https://github.com/choi-dan-di/Study_UE/tree/main/UE5/UE5_3DGame)
 - 사용된 자료는 인터넷 강의 수업 자료 이용
 - 개발 기간
-  - 2023.01.11 ~
+  - 2023.01.17 ~
 
 ***
 
