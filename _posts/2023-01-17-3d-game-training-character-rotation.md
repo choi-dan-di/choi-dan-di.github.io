@@ -1,6 +1,6 @@
 ---
-title: "[3D Game Training] #2. 캐릭터 회전하기"
-excerpt: "캐릭터를 Z축 방향으로 회전시켜보기"
+title: "[3D Game Training] #2. 캐릭터 회전 & 점프하기"
+excerpt: "캐릭터를 Z축 방향으로 회전시켜보고 점프 기능 추가하기"
 
 categories:
   - 3D Game Training
@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2023-01-17 23:36:14+0900
-last_modified_at: 2023-01-17 23:36:18+0900
+last_modified_at: 2023-01-18 00:05:21+0900
 ---
 
 ## 👻 캐릭터 회전하기
@@ -63,8 +63,36 @@ Z축에 해당하는 **Yaw** 방향으로 캐릭터를 회전시켜야한다. ``
 
 ***
 
+## 👻 마우스 방향으로 회전하기
+키를 누르는 것이 아닌, 마우스가 움직이는 방향으로 회전시켜보자. **Yaw** 방향은 이전에 만들었던 것과 똑같이 하되 입력값을 ``` Mouse X ```로 변경해주면 되고, 위아래로 움직일 땐 플레이어는 가만히, 카메라만 이동시켜야한다.
+
+``` SpringArm ```에도 마찬가지로 회전 설정이 있다.
+
+![Alt Text](/assets/images/posts_img/projects/3d-game-training/character-rotation/camera-rotation.PNG)   
+
+``` Use Pawn Control Rotation ```을 활성화 시켜주면 카메라만 움직이게 된다.
+
+- **결과**   
+![Alt Text](/assets/images/posts_img/projects/3d-game-training/character-rotation/rotation-character-mouse.gif)   
+
+***
+
+## 👻 점프하기
+마찬가지로 스페이스 바에 점프 이벤트를 매핑시키고 적용해보자.
+
+![Alt Text](/assets/images/posts_img/projects/3d-game-training/character-rotation/jump.PNG)   
+
+이미 ``` Character ```에 점프 이벤트를 적용시켜주는 함수가 존재한다. 플레이어 클래스 내에서 사용하게되면 바로 ``` Jump ``` 함수를 사용하면 되지만 나 같은 경우는 중간에 ``` PlayerController ```로 모든 기능을 빼주었기 때문에 ``` Get Player Character ```라는 함수를 사용하여 플레이어를 가져온 다음 점프 이벤트를 붙여주었다.
+
+- **결과**   
+![Alt Text](/assets/images/posts_img/projects/3d-game-training/character-rotation/jump-character.gif)   
+
+여기서 ``` Character Movement ```를 조금 더 손 본다면 원하는대로 점프 속성을 수정해줄 수 있다.
+
+***
+
 ## 👻 글을 마치며
-이번 시간에는 캐릭터가 회전하는 이벤트를 구현해보았다. 회전축이 내가 생각했던 방향과 달라 고민을 좀 많이 했었는데 그래도 결국에 알아냈고, 그 성취감이 너무 좋은 것 같다. 또한 언리얼이 많이 무겁긴 하지만 그만큼 기능이 많아 다양한 기능을 쉽게 적용할 수 있다는 것이 장점 중의 장점인 것 같다.
+이번 시간에는 캐릭터가 회전하고 점프하는 이벤트를 구현해보았다. 회전축이 내가 생각했던 방향과 달라 고민을 좀 많이 했었는데 그래도 결국에 알아냈고, 그 성취감이 너무 좋은 것 같다. 또한 언리얼이 많이 무겁긴 하지만 그만큼 기능이 많아 다양한 기능을 쉽게 적용할 수 있다는 것이 장점 중의 장점인 것 같다.
 
 ***
 
