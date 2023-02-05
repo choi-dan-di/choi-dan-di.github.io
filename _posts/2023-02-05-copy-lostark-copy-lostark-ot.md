@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2023-02-05 18:43:35+0900
-last_modified_at: 2023-02-05 18:43:38+0900
+last_modified_at: 2023-02-05 22:16:54+0900
 ---
 
 ## 👻 들어가기에 앞서
@@ -31,7 +31,7 @@ last_modified_at: 2023-02-05 18:43:38+0900
   - Blueprint
   - C++ (Visual Studio 2022)
 - 버전 관리
-  - [GitHub](https://github.com/choi-dan-di/Portfolio/tree/main/Copy_LostArk)
+  - [GitHub](https://github.com/choi-dan-di/Portfolio/tree/main/CopyLostArk)
 - 개발 기간
   - 2023.02.05 ~ 
 
