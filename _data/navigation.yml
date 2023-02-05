@@ -53,6 +53,8 @@ categories:
         url: /projects/paper2d-training/
       - title: "3D Game Training"
         url: /projects/3d-game-training/
+      - title: "Copy LostArk"
+        url: /projects/copy-lostark/
 
   - title: "Dandi"
     children:
