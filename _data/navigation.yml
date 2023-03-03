@@ -37,6 +37,8 @@ categories:
         url: /basics/directx/
       - title: "Game Mathematics"
         url: /basics/game-mathematics/
+      - title: "Computer Graphics"
+        url: /basics/computer-graphics/
 
   - title: "Engines"
     children:
