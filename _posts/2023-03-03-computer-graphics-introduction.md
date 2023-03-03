@@ -109,9 +109,9 @@ OpenGL을 구동하면 GPU가 작업을 수행하게 된다. 즉, 그래픽스 A
 ***
 
 _출처_   
-_[한정현 컴퓨터 그래픽스 (1장-서론)](https://youtu.be/EdkPDiwsTF0)_   
+_[한정현 컴퓨터 그래픽스 강의 (1장-서론)](https://youtu.be/EdkPDiwsTF0)_   
 _[도서 관련 예제 GitHub](https://github.com/medialab-ku/openGLESbook)_   
-_[PPT 강의 자료](https://media.korea.ac.kr/books/)_
+_[PPT 강의 자료 및 사진 출처](https://media.korea.ac.kr/books/)_
 
 _관련 도서_   
 _OpenGL ES를 이용한 3차원 컴퓨터 그래픽스 입문 - 한정현 지음_   
