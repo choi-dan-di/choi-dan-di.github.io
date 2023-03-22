@@ -85,10 +85,10 @@ last_modified_at: 2023-03-21 20:09:44+0900
 ***
 
 ### 🌱 역행렬
-두 개의 정사각행렬 ``` A ```와 ``` B ```가 곱해져서 그 결과가 ``` I ```가 된다면, ``` B ```는 ``` A ```의 **역행렬(Inverse Matrix)**이라고 부르며 ![Alt Text](/assets/images/posts_img/basics/computer-graphics/math-basics/a-1.png)로 표기한다. 반대도 마찬가지이다.
+두 개의 정사각행렬 ``` A ```와 ``` B ```가 곱해져서 그 결과가 ``` I ```가 된다면, ``` B ```는 ``` A ```의 **역행렬(Inverse Matrix)**이라고 부르며 ![Alt Text](/assets/images/posts_img/basics/computer-graphics/math-basics/a-1.PNG)로 표기한다. 반대도 마찬가지이다.
 
 > 💡 이와 유사하게 두 행렬의 곱셈의 전치 행렬도 구할 수 있다.   
-> ![Alt Text](/assets/images/posts_img/basics/computer-graphics/math-basics/theories.png)   
+> ![Alt Text](/assets/images/posts_img/basics/computer-graphics/math-basics/theories.PNG)   
 
 ***
 
