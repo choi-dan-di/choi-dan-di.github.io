@@ -14,6 +14,7 @@ toc_sticky: true
 
 date: 2023-03-05 20:45:29+0900
 last_modified_at: 2023-03-05 20:45:34+0900
+published: false
 ---
 
 ## 👻 좌표계와 변환

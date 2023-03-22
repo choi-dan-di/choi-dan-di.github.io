@@ -12,8 +12,9 @@ permalink: /computer-graphics/lighting/
 toc: true
 toc_sticky: true
 
-date: 2023-03-21 00:37:36+0900
-last_modified_at: 2023-03-21 00:37:40+0900
+date: 2023-03-21 19:27:38+0900
+last_modified_at: 2023-03-21 19:27:40+0900
+published: false
 ---
 
 ## 👻 라이팅

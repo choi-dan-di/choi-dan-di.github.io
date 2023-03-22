@@ -12,8 +12,8 @@ permalink: /computer-graphics/modeling/
 toc: true
 toc_sticky: true
 
-date: 2023-03-05 14:10:18+0900
-last_modified_at: 2023-03-05 14:10:26+0900
+date: 2023-03-22 14:10:18+0900
+last_modified_at: 2023-03-22 14:10:26+0900
 ---
 
 ## 👻 모델링

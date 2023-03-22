@@ -12,8 +12,8 @@ permalink: /computer-graphics/introduction/
 toc: true
 toc_sticky: true
 
-date: 2023-03-03 17:07:20+0900
-last_modified_at: 2023-03-03 17:07:24+0900
+date: 2023-03-20 17:07:20+0900
+last_modified_at: 2023-03-20 17:07:24+0900
 ---
 
 ## 👻 3차원 컴퓨터 그래픽스

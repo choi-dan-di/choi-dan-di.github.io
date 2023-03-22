@@ -12,8 +12,8 @@ permalink: /computer-graphics/math-basics/
 toc: true
 toc_sticky: true
 
-date: 2023-03-03 20:09:40+0900
-last_modified_at: 2023-03-03 20:09:44+0900
+date: 2023-03-21 20:09:40+0900
+last_modified_at: 2023-03-21 20:09:44+0900
 ---
 
 ## 👻 행렬과 벡터

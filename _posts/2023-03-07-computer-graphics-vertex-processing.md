@@ -14,6 +14,7 @@ toc_sticky: true
 
 date: 2023-03-07 18:24:53+0900
 last_modified_at: 2023-03-07 18:24:58+0900
+published: false
 ---
 
 ## 👻 정점 처리

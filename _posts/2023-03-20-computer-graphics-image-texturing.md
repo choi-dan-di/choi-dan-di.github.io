@@ -14,6 +14,7 @@ toc_sticky: true
 
 date: 2023-03-20 22:37:30+0900
 last_modified_at: 2023-03-20 22:37:33+0900
+published: false
 ---
 
 ## 👻 이미지 텍스처링
