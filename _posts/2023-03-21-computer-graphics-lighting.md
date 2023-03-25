@@ -26,7 +26,7 @@ Phong Lighting Model
 - diffuse
 - specular
 - ambient
-- emissive
+- emissive 
 
 Diffuse Term
 광원은 여러가지 종류가 있다. led 같은 광원은 처리하기 복잡함
@@ -50,7 +50,7 @@ rgb가 111일 때 (흰색) 어떤 물체가 빨간색으로 보인다면 gb는 �
 즉 반사 계수를 (1, 0, 0)으로 설정
 s: light source
 m: material
-쌍쌍이 곱한다.
+쌍쌍이 곱한다. 
 
 Specular Term
 정반사
