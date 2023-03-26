@@ -67,6 +67,10 @@ last_modified_at: 2023-03-22 15:10:26+0900
 
 > 원점에 중심을 가지는 구를 폴리곤 메시로 모델링하기 위해 위도와 경도 모두 10˚ 간격으로 정점을 정의한다고 가정하자. 이 메시의 정점은 모두 몇 개인가?
 
+- **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/modeling-practice/3-04-solve.jpg)   
+
 ***
 
 ### 🌱 5
