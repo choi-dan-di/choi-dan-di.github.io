@@ -12,9 +12,8 @@ permalink: /computer-graphics/spaces-and-transforms/
 toc: true
 toc_sticky: true
 
-date: 2023-03-05 20:45:29+0900
-last_modified_at: 2023-03-05 20:45:34+0900
-published: false
+date: 2023-03-28 20:45:29+0900
+last_modified_at: 2023-03-28 20:45:34+0900
 ---
 
 ## 👻 좌표계와 변환

@@ -12,9 +12,8 @@ permalink: /computer-graphics/vertex-processing/
 toc: true
 toc_sticky: true
 
-date: 2023-03-07 18:24:53+0900
-last_modified_at: 2023-03-07 18:24:58+0900
-published: false
+date: 2023-03-28 21:24:53+0900
+last_modified_at: 2023-03-28 21:24:58+0900
 ---
 
 ## 👻 정점 처리
