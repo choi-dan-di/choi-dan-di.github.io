@@ -28,6 +28,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/1-solve.jpg)   
+
 ***
 
 ### 🌱 2
@@ -36,6 +38,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 > 두 개의 3차원 비표준 직교정규 기저 {a, b, c}와 {d, e, f}가 주어졌을 때, {a, b, c}에서 정의된 벡터를 {d, e, f}에서 정의된 벡터로 변환하는 3 × 3 행렬을 계산하라.
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/2-solve.jpg)   
 
 ***
 
@@ -46,6 +50,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/3-solve.jpg)   
+
 ***
 
 ### 🌱 4
@@ -54,6 +60,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 > 세 개의 직교정규 벡터 a, b, c를 기준으로 하는 축소확대를 생각해 보자. a, b, c 방향으로의 축소확대 인자는 각각 s<sub>a</sub>, s<sub>b</sub>, s<sub>c</sub>로 표기한다. 한편, a, b 중 어느 것도 표준 기저 벡터(e<sub>1</sub>, e<sub>2</sub>, e<sub>3</sub>)와 일치하는 것은 없고, a, b, c 간에는 a × b = c의 관계가 성립한다. 우리가 구하고자 하는 축소확대 행렬은 세 개의 3 × 3 행렬의 곱으로 표현된다. 각각의 행렬을 계산하라.
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/4-solve.jpg)   
 
 ***
 
@@ -64,17 +72,21 @@ last_modified_at: 2023-03-28 22:24:58+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/5-solve.jpg)   
+
 ***
 
 ### 🌱 6
 - **문제**
 
-> 카메라 파라미터가 다음과 같이 주어졌다: **EYE** = (0, 0, -√3), **AT** = (0, 0, 0), **UP** = (0, 0, 1).
+> 카메라 파라미터가 다음과 같이 주어졌다: **EYE** = (0, 0, -√3), **AT** = (0, 0, 0), **UP** = (0, 1, 0).
 >
 > (a) 카메라 공간의 기저와 원점은 무엇인가?   
 (b) 뷰 변환은 이동에 이은 회전으로 정의된다. 두 행렬을 계산하라.
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/6-solve.jpg)   
 
 ***
 
@@ -88,6 +100,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/7-solve.jpg)   
+
 ***
 
 ### 🌱 8
@@ -97,6 +111,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/8-solve.jpg)   
+
 ***
 
 ### 🌱 9
@@ -105,6 +121,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 > 월드 공간에서 두 개의 카메라 파라미터 군 {**EYE**, **AT**, **UP1**}과 {**EYE**, **AT**, **UP2**}가 주어졌다. 각 좌표는 다음과 같다: **EYE** = (18, 8, 0), **AT** = (10, 2, 0), **UP1** = (0, 8, 0), **UP2** = (-13, 2, 0). 이를 기반으로 정의된 두 개의 카메라 공간이 일치하는지 아닌지 기술하라.
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/9-solve.jpg)   
 
 ***
 
@@ -118,6 +136,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/10-solve.jpg)   
+
 ***
 
 ### 🌱 11
@@ -130,6 +150,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/11-solve.jpg)   
+
 ***
 
 ### 🌱 12
@@ -140,6 +162,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/12-solve.jpg)   
+
 ***
 
 ### 🌱 13
@@ -148,6 +172,8 @@ last_modified_at: 2023-03-28 22:24:58+0900
 > 우리는 5.4.3절에서 투영 변환 이후의 z범위가 [-1, 1]인 것을 이용하여 투영 행렬을 계산하였다. 클립 공간 뷰 볼륨의 x와 y범위는 [-1, 1]이지만 z범위는 [-1, 0]이 되도록 바꿨다고 가정하자. 이 경우, 투영 행렬을 계산하라.
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/13-solve.jpg)   
 
 ***
 
@@ -159,10 +185,12 @@ last_modified_at: 2023-03-28 22:24:58+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/vertex-processing-practice/14-solve.jpg)   
+
 ***
 
 ## 👻 글을 마치며
-
+이번 시간에는 정점 처리와 관련된 연습문제를 풀어보았다. 문제의 양이 많기도하고 워낙 행렬 계산식이 많아서 시간이 꽤나 걸렸던 것 같다. 하지만 응용문제를 풀고나니 개념에 한 걸음 더 가까이 다가가게 된 것 같고 모르는 문제들을 스터디원들과 함께 풀이하며 공부하니 두 배로 이해가 잘 되었던 것 같다.
 
 ***
 

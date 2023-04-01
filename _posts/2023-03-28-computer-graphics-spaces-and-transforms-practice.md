@@ -32,6 +32,8 @@ last_modified_at: 2023-03-28 21:20:34+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/spaces-and-transforms-practice/1-solve.jpg)   
+
 ***
 
 ### 🌱 2
@@ -40,6 +42,8 @@ last_modified_at: 2023-03-28 21:20:34+0900
 > 한 물체의 오브젝트 공간 기저를 {u, v, n}으로 표기하자. 회전 후에 u = (0, 0, -1), v = (1/√2, 1/√2, 0)이 되었다. 이 회전의 역변환 행렬을 계산하라.
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/spaces-and-transforms-practice/2-solve.jpg)   
 
 ***
 
@@ -51,6 +55,8 @@ last_modified_at: 2023-03-28 21:20:34+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/spaces-and-transforms-practice/3-solve.jpg)   
+
 ***
 
 ### 🌱 4
@@ -59,6 +65,8 @@ last_modified_at: 2023-03-28 21:20:34+0900
 > 하나의 3차원 점을 임의의 축을 중심으로 θ만큼 회전시키는 순차적 과정을 설명하라. 이 과정은 회전축을 주축 중 하나로 변환하는 단계, 그리고 벡터곱(cross product) 연산을 포함해야 한다.
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/spaces-and-transforms-practice/4-solve.jpg)   
 
 ***
 
@@ -70,20 +78,24 @@ last_modified_at: 2023-03-28 21:20:34+0900
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/spaces-and-transforms-practice/5-solve.jpg)   
+
 ***
 
 ### 🌱 6
 - **문제**
 
 > 다음 그림의 주전자는 (3, 4, 0)을 중심으로 90˚ 회전될 것이다. 이 같은 임의의 축 중심 회전은 세 개의 변환으로 분해된다: (1) (3, 4, 0)를 x축으로 회전, (2)를 x축 중심으로 90˚ 회전, (3) (1)의 역변환. 이 세 단계의 행렬을 각각 계산하라. [힌트: (1)을 위해 R<sub>z</sub>(θ)를 사용하면 편리하다.]   
-![Alt Text](/assets/images/posts_img/basics/computer-graphics/spaces-and-transforms-practice/5-img.PNG)   
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/spaces-and-transforms-practice/6-img.PNG)   
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/spaces-and-transforms-practice/6-solve.jpg)   
 
 ***
 
 ## 👻 글을 마치며
-
+이번 시간에는 좌표계와 변환과 관련된 연습문제를 풀어보았다. 거진 회전을 하는 연산과 어떤 순서로 회전이 이루어지는지에 대해 연습할 수 있었던 것 같다. 확실히 주축을 기준으로 회전하는 것보다 임의의 축을 기준으로 회전하는 것이 훨씬 어려웠던 것 같다. 꾸준한 연습이 필요할 것 같다. ~~안 하면 금방 까먹을 것 같다 😭~~
 
 ***
 
