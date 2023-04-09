@@ -32,6 +32,8 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/1-solve.jpg)   
+
 ***
 
 ### 🌱 2
@@ -40,6 +42,8 @@ published: true
 > 텍스처 좌표 s가 [0, 1] 범위를 넘어셨고, 텍스처 포장을 위해 반복 모드(repeat mode)를 사용한다고 가정하자. ⌊ ⌋ 혹은 ⌈ ⌉ 함수를 사용하여 s를 [0, 1] 범위로 전환하는 방정식을 작성하라.
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/2-solve.jpg)   
 
 ***
 
@@ -50,6 +54,8 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/3-solve.jpg)   
+
 ***
 
 ### 🌱 4
@@ -59,6 +65,8 @@ published: true
 ![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/.jpg)   
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/4-solve.jpg)   
 
 ***
 
@@ -76,6 +84,8 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/5-solve.jpg)   
+
 ***
 
 ### 🌱 6
@@ -90,6 +100,8 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/6-solve.jpg)   
+
 ***
 
 ### 🌱 7
@@ -98,6 +110,8 @@ published: true
 > 의료 영상 분야에서는 종종 3차원 텍스처링이 필요하다. 2<sup>l</sup> × 2<sup>l</sup> × 2<sup>l</sup> 해상도를 가지는 3차원 이미지를 생각해보자. 이를 이용해 어떻게 밉맵을 만들 것인가? 이 밉맵은 총 몇 개의 레벨을 가지는가? 밉맵 최상위 레벨 텍스처의 해상도는 무엇인가?
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/7-solve.jpg)   
 
 ***
 
@@ -108,6 +122,8 @@ published: true
 ![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/.jpg)   
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/8-solve.jpg)   
 
 ***
 
@@ -122,10 +138,12 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/9-solve.jpg)   
+
 ***
 
 ## 👻 글을 마치며
-
+이번 시간에는 8장 이미지 텍스처링 챕터의 연습문제를 풀어보았다. 이 부분도 7장과 동일하게 계산식이 많아서 어렵지 않게 풀 수 있었던 것 같다. 아직까진 밉맵 필터링에 대해서 완벽히 이해하진 못한 것 같다. 그래도 스터디를 하면서 모르는 부분에 대해 알 수 있었고 아마도 계속 질문을 해야할 것 같다..😂
 
 ***
 

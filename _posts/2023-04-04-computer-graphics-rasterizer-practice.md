@@ -33,6 +33,8 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/rasterizer-practice/1-solve.jpg)   
+
 ***
 
 ### 🌱 2
@@ -44,6 +46,8 @@ published: true
 (b) 이동 행렬을 계산하라.
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/rasterizer-practice/2-solve.jpg)   
 
 ***
 
@@ -57,6 +61,8 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/rasterizer-practice/3-solve.jpg)   
+
 ***
 
 ### 🌱 4
@@ -66,6 +72,8 @@ published: true
 ![Alt Text](/assets/images/posts_img/basics/computer-graphics/rasterizer-practice/.jpg)   
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/rasterizer-practice/4-solve.jpg)   
 
 ***
 
@@ -77,6 +85,8 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/rasterizer-practice/5-solve.jpg)   
+
 ***
 
 ### 🌱 6
@@ -87,6 +97,8 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/rasterizer-practice/6-solve.jpg)   
+
 ***
 
 ### 🌱 7
@@ -96,6 +108,8 @@ published: true
 ![Alt Text](/assets/images/posts_img/basics/computer-graphics/rasterizer-practice/.jpg)   
 
 - **풀이**
+
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/rasterizer-practice/7-solve.jpg)   
 
 ***
 
@@ -110,10 +124,12 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/rasterizer-practice/8-solve.jpg)   
+
 ***
 
 ## 👻 글을 마치며
-
+이번 시간에는 7장 래스터라이저 챕터의 연습문제를 풀어보았다. 문제가 그렇게 많진 않은데 아무래도 계산식이 많다보니 시간이 꽤나 소요된 것 같다. 그래도 어려운 부분은 없었고, 스캔 전환에서 겹선형 보간식이 헷갈렸었는데 복습하고 연습문제도 계속 풀다보니 완벽히 이해한 것 같다.
 
 ***
 

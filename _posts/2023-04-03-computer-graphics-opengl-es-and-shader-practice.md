@@ -70,6 +70,7 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/opengl-es-and-shader-practice/1-solve.jpg)   
 
 ***
 
@@ -84,10 +85,12 @@ published: true
 
 - **풀이**
 
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/opengl-es-and-shader-practice/2-solve.jpg)   
+
 ***
 
 ## 👻 글을 마치며
-
+이번 시간에는 6장 OpenGL ES와 쉐이더 챕터의 연습문제를 풀어보았다. 코드를 적는 부분이라 어렵지 않게 이해하고 넘어갈 수 있었다. 쉐이더 언어가 익숙하지 않아서 헷갈리는 부분이 좀 있지만 그래도 기본적으로 C언어와 비슷해서 금방 외울 수 있을 것 같다.
 
 ***
 
