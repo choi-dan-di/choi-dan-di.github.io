@@ -78,7 +78,7 @@ published: true
 - **문제**
 
 > 아래의 메시는 총 8개의 삼각형으로 구성되어 있다.   
-![Alt Text](/assets/images/posts_img/basics/computer-graphics/opengl-es-and-shader-practice/2.jpg)   
+<img src="/assets/images/posts_img/basics/computer-graphics/opengl-es-and-shader-practice/2.jpg" width="50%">   
 (a) 인덱스를 사용하여 위 메시를 표현했을 때, 우리는 glDrawElements(mode, count, type, indices)를 호출할 것이다. mode와 count 값은 각각 무엇인가?
 >
 > (b) 인덱스 없이 위 메시를 표현했을 때, 우리는 glDrawElements(mode, count, type, indices)를 호출할 것이다. mode와 count 값은 각각 무엇인가?

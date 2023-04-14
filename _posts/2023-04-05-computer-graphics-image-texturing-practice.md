@@ -26,7 +26,7 @@ published: true
 - **문제**
 
 > 아래 그림은 스크린 공간 삼각형과 교차하는 스캔 라인을 보여주는데, 스캔 라인의 y좌표는 3.5이다.   
-![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/.jpg)   
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/8-1.PNG)   
 (a) 삼각형 두 변이 스캔 라인과 교차하는 점에서의 텍스처 좌표를 계산하라.   
 (b) 스캔 라인 상에 놓인 두 프래그먼트의 텍스처 좌표를 계산하라.
 
@@ -39,7 +39,7 @@ published: true
 ### 🌱 2
 - **문제**
 
-> 텍스처 좌표 s가 [0, 1] 범위를 넘어셨고, 텍스처 포장을 위해 반복 모드(repeat mode)를 사용한다고 가정하자. ⌊ ⌋ 혹은 ⌈ ⌉ 함수를 사용하여 s를 [0, 1] 범위로 전환하는 방정식을 작성하라.
+> 텍스처 좌표 s가 [0, 1] 범위를 넘어섰고, 텍스처 포장을 위해 반복 모드(repeat mode)를 사용한다고 가정하자. ⌊ ⌋ 혹은 ⌈ ⌉ 함수를 사용하여 s를 [0, 1] 범위로 전환하는 방정식을 작성하라.
 
 - **풀이**
 
@@ -62,7 +62,7 @@ published: true
 - **문제**
 
 > 다음 그램은 네 개의 텍셀을 가진 텍스처 공간에 16개의 픽셀이 투영된 것을 보여준다. 각 텍셀의 색상을 c<sub>i</sub>라고 할 때, 겹선형 보간으로 결정되는 픽셀 색상 c를 정의하라.   
-![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/.jpg)   
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/8-4.PNG)   
 
 - **풀이**
 
@@ -74,7 +74,7 @@ published: true
 - **문제**
 
 > 한 픽셀이 8 × 8 해상도의 텍스처 공간에 투영되었다. 아래 왼쪽 그림의 동그라미는 픽셀, 직사각형은 그 픽셀의 발자국을 나타낸다.   
-![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/.jpg)   
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/8-5.PNG)   
 (a) 텍스처 색상은 회색조이며, 오른쪽 그림은 밉맵의 0번과 1번 레벨 텍스처를 보여주는데, 숫자는 텍셀 밝기를 나타낸다. 이와 같은 방식으로 2번과 3번 레벨 텍스처를 그려라.
 >
 > (b) 삼선형 보간 기법으로 밉맵을 필터링하고, λ 계산을 위해 픽셀 발자국의 '긴' 변 길이를 사용한다고 가정하자. 어떤 레벨이 선택되는가? 또한, 각 레벨에서의 필터링 결과를 계산하라.
@@ -119,7 +119,7 @@ published: true
 - **문제**
 
 > 아래는 그림 8.15의 밉맵과 사각형을 이용해 텍스처링을 수행한 결과를 보여준다. 사각형에는 a부터 e까지 5개의 픽셀이 표시되어 있다. 한편, 사각형 아래에는 2 × 2 텍셀 격자와 픽셀 발자국 쌍 5개를 보여준다. a부터 e까지의 픽셀은 각각 이 중 어느 경우에 해당하는가?   
-![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/.jpg)   
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/8-8.PNG)   
 
 - **풀이**
 
@@ -131,7 +131,7 @@ published: true
 - **문제**
 
 > 다음 그림은 두 색상으로 구성된 텍스처로, 검은색 텍셀은 0, 밝은 회색 텍셀은 0.8 값을 가진다. 동그라미로 표시된 픽셀이 4개 텍셀의 한가운데로 투영되었는데, 이 픽셀의 발자국은 변의 길이가 2√2인 정사각형이다.   
-![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/.jpg)   
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/image-texturing-practice/8-9.PNG)   
 (a) 밉맵의 모든 레벨은 근접점 샘플링으로 필터링되고, 그 결과는 선형 보간된다. 근접점 샘플링 시, 픽셀로부터 같은 거리에 있는 텍셀이 여러 개 존재한다면 위의 혹은 오른쪽 위의 텍셀을 선택한다. 픽셀의 최종 텍스처링 색상은 무엇일까?
 >
 > (b) 밉맵의 모든 레벨이 겹선형 보간으로 필터링되고 그 결과가 선형 보간된다면, 픽셀의 최종 텍스처링 색상은 무엇일까?
