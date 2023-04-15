@@ -96,7 +96,7 @@ published: true
 > 아래 그림과 같이 삼각형 세 개가 겹쳐져 있다.   
 ![Alt Text](/assets/images/posts_img/basics/computer-graphics/output-merger-practice/6.PNG)   
 (a) 삼각형 세 개는 모두 반투명한데, 빨간색, 초록색, 파란색 삼각형 순서로 처리된다. 렌더링 결과를 그려라.   
-(b) 렌더링 결과에 어떤 문제가 있는가? 그리고 이를 해결하기 위한 방안은 무엇인가?
+(b) 렌더링 결과에 어떤 문제가 있는가? 그리고 이를 해결하기 위한 방안은 무엇인가? 
 
 - **풀이**
 
@@ -110,7 +110,7 @@ published: true
 ***
 
 _출처_   
-_[도서 관련 예제 GitHub](https://github.com/medialab-ku/openGLESbook)_   
+_[도서 관련 예제 GitHub](https://github.com/medialab-ku/openGLESbook)_                s
 _[PPT 강의 자료 및 사진 출처](https://media.korea.ac.kr/books/)_
 
 _관련 도서_   
