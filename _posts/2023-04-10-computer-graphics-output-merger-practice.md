@@ -110,7 +110,7 @@ published: true
 ***
 
 _출처_   
-_[도서 관련 예제 GitHub](https://github.com/medialab-ku/openGLESbook)_                s
+_[도서 관련 예제 GitHub](https://github.com/medialab-ku/openGLESbook)_
 _[PPT 강의 자료 및 사진 출처](https://media.korea.ac.kr/books/)_
 
 _관련 도서_   
