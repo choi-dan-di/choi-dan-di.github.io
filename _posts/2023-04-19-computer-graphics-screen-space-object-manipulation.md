@@ -168,7 +168,7 @@ v는 단위 벡터이고, v<sub>x</sub> = q<sub>x</sub>, v<sub>y</sub> = q<sub>y
 
 단, 이러한 방식으로 계산할 수 없는 경우, 1차적으로 q를 3차원 좌표계의 xy평면으로 투영한 후, 이 투영점을 정규화하면 아크볼 표면으로 2차 투영하는 결과를 낳는다.
 
-![Alt Text](/assets/images/posts_img/basics/computer-graphics/screen-space-object-manipulation/arcball4.png)   
+![Alt Text](/assets/images/posts_img/basics/computer-graphics/screen-space-object-manipulation/arcball4.PNG)   
 
 이와 같은 방식으로 p에서 q, q에서 v로 옮겨가며 v<sub>i</sub>와 v<sub>i+1</sub>을 계산할 수 있다. 이러한 회전은 두 좌표에 모두 수직인 **회전축**과 그 사이의 **회전각**에 의해 정의된다.
 
