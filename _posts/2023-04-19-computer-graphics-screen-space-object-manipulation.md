@@ -1,5 +1,5 @@
 ---
-title: "[Computer Graphics] #12. 스크린 물체 조작"
+title: "[Computer Graphics] #12. 스크린 물체 조작 ddd"
 excerpt: "한정현 컴퓨터 그래픽스 강의 12장 정리"
 
 categories:
