@@ -33,12 +33,14 @@ categories:
         url: /basics/github/
       - title: "Markdown"
         url: /basics/md/
-      - title: "DirectX"
-        url: /basics/directx/
       - title: "Game Mathematics"
         url: /basics/game-mathematics/
       - title: "Computer Graphics"
         url: /basics/computer-graphics/
+      - title: "DirectX"
+        url: /basics/directx/
+      - title: "OpenGL"
+        url: /basics/opengl/
 
   - title: "Engines"
     children:
