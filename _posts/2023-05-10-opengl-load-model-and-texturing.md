@@ -182,7 +182,7 @@ void main()
 
 ***
 
-_[소스코드 보러가기]()_
+_[소스코드 보러가기](https://github.com/choi-dan-di/Study_OpenGL/tree/main/OpenGL/Mapping)_
 
 ***
 
