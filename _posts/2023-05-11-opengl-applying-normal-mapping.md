@@ -284,6 +284,11 @@ color = vec4(diff + spec + ambi, 1.0);
 
 ![Alt Text](/assets/images/posts_img/basics/opengl/applying-normal-mapping/result.PNG)   
 
+➕   
+친구한테 보여줬더니 나무를 꾸며주었다 ☺☺☺
+
+<img src="/assets/images/posts_img/basics/opengl/applying-normal-mapping/tree.jpg" width="50%">
+
 ***
 
 ## 👻 글을 마치며
