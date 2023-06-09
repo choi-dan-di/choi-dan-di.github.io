@@ -41,6 +41,8 @@ categories:
         url: /basics/directx/
       - title: "OpenGL"
         url: /basics/opengl/
+      - title: "Operating System"
+        url: /basics/operating-system/
 
   - title: "Engines"
     children:
