@@ -1,6 +1,6 @@
 ---
 title: "[Operating System] #3주차 - 퀴즈 풀이"
-excerpt: "운영체제 공룡책 Synchronization Tools 퀴즈 풀이 정리"
+excerpt: "운영체제 공룡책 Synchronization Tools (1) 퀴즈 풀이 정리"
 
 categories:
   - Operating System
