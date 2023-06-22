@@ -161,7 +161,7 @@ signal(semaphore *S) {
 세마포어는 편리하고 효과적이긴 하지만 **타이밍 에러**가 많이 발생한다. ``` wait() ``` 👉 ``` signal() ``` 순서를 지키지 않으면 임계 영역에 프로세스(혹은 스레드) 여러 개가 들어가는 문제가 발생할 수 있다. (같은 걸 쓴다거나, 안 쓴다거나 등의 문제들)
 
 - **여러가지 문제 상황들**
-    - **wait과 signal의 순서를 반대로 구현하였을 경우**   
+    - **wait과 signal의 순서를 반대로 구현하였을 경우 : Mutual Exclusion 보장 X**   
     ```c++
     signal(mutex);
     ...
@@ -169,7 +169,7 @@ signal(semaphore *S) {
     ...
     wait(mutex);
     ```
-    - **signal을 wait으로 대체하였을 경우**   
+    - **signal을 wait으로 대체하였을 경우 : Bounded Waiting 보장 X**   
     ```c++
     wait(mutex);
     ...
