@@ -1,5 +1,5 @@
 ---
-title: "[Operating System] #3주차 - Synchronization Tools"
+title: "[Operating System] #3주차 - Synchronization Tools (1)"
 excerpt: "운영체제 공룡책 강의 정리"
 
 categories:
