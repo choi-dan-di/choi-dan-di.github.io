@@ -5,7 +5,7 @@ excerpt: "운영체제 공룡책 강의 정리"
 categories:
   - Operating System
 tags:
-  - [Operating System, os, main memory, memory]
+  - [Operating System, os, virtual memory, memory]
 
 permalink: /operating-system/os-lecture-5-2/
 
