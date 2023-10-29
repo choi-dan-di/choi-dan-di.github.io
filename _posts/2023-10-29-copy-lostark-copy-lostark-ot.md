@@ -29,14 +29,14 @@ published: true
   - Windows 10 Home x64
   - AMD Ryzen 5 5600X 6-Core Processor 3.70 GHz
   - RAM : 16.0GB
-- 엔진
-  - Unreal Engine 5.1.0
+- 환경
+  - Unreal Engine 5.1.1
   - Blueprint
   - C++ (Visual Studio 2022)
 - 버전 관리
   - [GitHub](https://github.com/choi-dan-di/Portfolio/tree/main/CopyLostArk)
 - 개발 기간
-  - 2023.10.30 ~ 
+  - 2023.10.23 ~ 
 
 ***
 
