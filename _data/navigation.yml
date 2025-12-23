@@ -53,7 +53,7 @@ categories:
         url: /study-notes/ml-theory/ 
       - title: "Math & Statistics"
         url: /study-notes/math-statistics/ 
-  - title: "📓 Analysis Log"
+  - title: "📓 Analysis Logs"
     children:
       - title: "Project Logs"
         url: /analysis-log/project-logs/
