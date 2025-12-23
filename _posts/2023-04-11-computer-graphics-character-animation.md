@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-04-11 18:12:03+0900
 last_modified_at: 2023-04-11 18:12:07+0900
-published: false
 ---
 
 ## 👻 캐릭터 애니메이션

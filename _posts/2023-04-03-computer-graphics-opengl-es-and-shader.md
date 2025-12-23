@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-04-03 21:33:32+0900
 last_modified_at: 2023-04-03 21:33:36+0900
-published: true
 ---
 
 ## 👻 OpenGL ES와 쉐이더

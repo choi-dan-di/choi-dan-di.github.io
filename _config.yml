@@ -282,5 +282,29 @@ defaults:
       related: true
       sidebar:
         nav: "categories"
+  - scope:
+      path: ""
+      type: posts
+      category: basics
+    values:
+      published: false
+  - scope:
+      path: ""
+      type: posts
+      category: engines
+    values:
+      published: false
+  - scope:
+      path: ""
+      type: posts
+      category: projects
+    values:
+      published: false
+  - scope:
+      path: ""
+      type: posts
+      category: dandi
+    values:
+      published: false
 
 future: true

@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-07-15 18:07:28+0900
 last_modified_at: 2023-07-15 18:07:32+0900
-published: true
 ---
 
 ## 👻 Mass-Storage Structure

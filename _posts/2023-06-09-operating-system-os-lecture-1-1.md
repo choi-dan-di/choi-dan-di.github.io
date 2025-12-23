@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-06-09 16:55:03+0900
 last_modified_at: 2023-06-09 16:55:06+0900
-published: true
 ---
 
 ## 👻 운영체제가 뭐길래?

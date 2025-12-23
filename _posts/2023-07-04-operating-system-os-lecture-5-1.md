@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-07-04 16:08:47+0900
 last_modified_at: 2023-07-04 16:08:51+0900
-published: true
 ---
 
 ## 👻 Background

@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-05-28 16:27:29+0900
 last_modified_at: 2023-05-28 16:27:33+0900
-published: true
 ---
 
 ## 👻 프로젝트 계획서

@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-06-21 15:51:31+0900
 last_modified_at: 2023-06-21 15:51:35+0900
-published: true
 ---
 
 ## 👻 복습

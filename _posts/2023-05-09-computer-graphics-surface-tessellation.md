@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-05-09 19:27:42+0900
 last_modified_at: 2023-05-09 19:27:46+0900
-published: true
 ---
 
 ## 👻 GPU 테셀레이션

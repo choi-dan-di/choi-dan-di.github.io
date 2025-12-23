@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-04-17 19:25:00+0900
 last_modified_at: 2023-04-17 19:25:04+0900
-published: false
 ---
 
 ## 👻 서론

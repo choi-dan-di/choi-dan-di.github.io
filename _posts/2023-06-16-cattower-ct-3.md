@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-06-16 18:26:44+0900
 last_modified_at: 2023-06-16 18:26:48+0900
-published: true
 ---
 
 ## 👻 캐릭터 변경

@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-04-11 00:35:07+0900
 last_modified_at: 2023-04-11 00:35:11+0900
-published: false
 ---
 
 ## 👻 스크린 물체 조작

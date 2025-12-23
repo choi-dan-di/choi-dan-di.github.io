@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-04-25 19:45:56+0900
 last_modified_at: 2023-04-25 19:46:00+0900
-published: true
 ---
 
 ## 👻 노멀 매핑

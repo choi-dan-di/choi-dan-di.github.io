@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-04-18 18:13:42+0900
 last_modified_at: 2023-04-18 18:13:46+0900
-published: true
 ---
 
 ## 👻 오일러 변환

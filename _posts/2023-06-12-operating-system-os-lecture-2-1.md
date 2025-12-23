@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-06-12 18:34:48+0900
 last_modified_at: 2023-06-12 18:34:52+0900
-published: true
 ---
 
 ## 👻 Thread

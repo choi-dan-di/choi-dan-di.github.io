@@ -19,54 +19,120 @@ main:
 # sidebar navigation (categories)
 # 2022.09.24 sidebar ver2.0 : main-sub version
 categories:
+  - title: "📊 Data Analytics"
+    children:
+      - title: "Baseball Analytics"
+        url: /data-analytics/baseball-analytics/
+      - title: "Public & Open Data Analysis"
+        url: /data-analytics/public-open-data-analysis/
+      - title: "EDA Practice"
+        url: /data-analytics/eda-practice/
+      - title: "Visualization"
+        url: /data-analytics/visualization/
+  - title: "🤖 Machine Learning"
+    children:
+      - title: "Regression"
+        url: /machine-learning/regression/
+      - title: "Classification"
+        url: /machine-learning/classification/
+      - title: "Time Series & Prediction"
+        url: /machine-learning/time-series-prediction/  
+      - title: "Model Evaluation" 
+        url: /machine-learning/model-evaluation/
+  - title: "📝 Study Notes"
+    children:
+      - title: "Data Fundamentals"
+        url: /study-notes/data-fundamentals/
+      - title: "Evaluation Metrics"
+        url: /study-notes/evaluation-metrics/
+      - title: "Python & Pandas"
+        url: /study-notes/python-pandas/
+      - title: "Matplotlib & Seaborn"
+        url: /study-notes/matplotlib-seaborn/
+      - title: "ML Theory"
+        url: /study-notes/ml-theory/ 
+      - title: "Math & Statistics"
+        url: /study-notes/math-statistics/ 
+  - title: "📓 Analysis Log"
+    children:
+      - title: "Project Logs"
+        url: /analysis-log/project-logs/
+      - title: "Failure & Debugging Logs"
+        url: /analysis-log/failure-debugging-logs/
+  - title: "💭 Thoughts"
+    children:
+      - title: "Baseball Thoughts"
+        url: /thoughts/baseball-thoughts/
   - title: "Basics"
+    visible: false
     children:
       - title: "Assembly Language"
         url: /basics/asm/
+        visible: false
       - title: "C/C++"
         url: /basics/cpp/
+        visible: false
       - title: "C#"
         url: /basics/csharp/
+        visible: false
       - title: "Algorithm"
         url: /basics/algorithm/
+        visible: false
       - title: "GitHub"
         url: /basics/github/
+        visible: false
       - title: "Markdown"
         url: /basics/md/
+        visible: false
       - title: "Game Mathematics"
         url: /basics/game-mathematics/
+        visible: false
       - title: "Computer Graphics"
         url: /basics/computer-graphics/
+        visible: false
       - title: "DirectX"
         url: /basics/directx/
+        visible: false
       - title: "OpenGL"
         url: /basics/opengl/
+        visible: false
       - title: "Operating System"
         url: /basics/operating-system/
-
+        visible: false
   - title: "Engines"
+    visible: false
     children:
       - title: "Unreal Engine"
         url: /engines/unreal/
+        visible: false
       - title: "Unity"
         url: /engines/unity/
-  
+        visible: false
   - title: "Projects"
+    visible: false
     children:
       - title: "GitHub Blog"
         url: /projects/github-blog/
+        visible: false
       - title: "Paper2D Training"
         url: /projects/paper2d-training/
+        visible: false
       - title: "3D Game Training"
         url: /projects/3d-game-training/
+        visible: false
       - title: "Copy LostArk"
         url: /projects/copy-lostark/
+        visible: false
       - title: "Project CatTower"
         url: /projects/cattower/
+        visible: false
 
   - title: "Dandi"
+    visible: false
     children:
       - title: "Today I Learned"
         url: /dandi/til/ 
+        visible: false
       - title: "Me"
         url: /dandi/me/
+        visible: false

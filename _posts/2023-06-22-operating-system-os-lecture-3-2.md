@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-06-22 16:55:30+0900
 last_modified_at: 2023-06-22 16:55:33+0900
-published: true
 ---
 
 ## 👻 Higher-level Software tools

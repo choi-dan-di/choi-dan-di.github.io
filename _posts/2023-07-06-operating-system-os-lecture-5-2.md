@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-07-06 15:31:42+0900
 last_modified_at: 2023-07-06 15:31:46+0900
-published: true
 ---
 
 ## 👻 Virtual Memory

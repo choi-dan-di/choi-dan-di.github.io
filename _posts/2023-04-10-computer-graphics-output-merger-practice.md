@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-04-10 19:34:57+0900
 last_modified_at: 2023-04-10 19:35:01+0900
-published: true
 ---
 
 ## 👻 연습문제 풀이

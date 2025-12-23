@@ -14,7 +14,6 @@ toc_sticky: true
 
 date: 2023-06-15 16:16:37+0900
 last_modified_at: 2023-06-15 16:16:41+0900
-published: true
 ---
 
 ## 👻 CPU Scheduling
