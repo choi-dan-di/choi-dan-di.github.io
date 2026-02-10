@@ -53,6 +53,10 @@ categories:
         url: /study-notes/ml-theory/ 
       - title: "Math & Statistics"
         url: /study-notes/math-statistics/ 
+  - title: "🚀 Projects"
+    children:
+      - title: "Baseball Data App"
+        url: /projects/baseball-data-app/
   - title: "📓 Analysis Logs"
     children:
       - title: "Project Logs"
