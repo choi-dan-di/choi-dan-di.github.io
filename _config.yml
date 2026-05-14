@@ -286,8 +286,8 @@ defaults:
       path: ""
       type: posts
       category: basics
-    values:
-      published: false
+#    values:
+#      published: true
   - scope:
       path: ""
       type: posts
