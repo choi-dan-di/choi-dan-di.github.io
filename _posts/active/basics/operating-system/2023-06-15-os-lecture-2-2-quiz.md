@@ -14,6 +14,7 @@ toc_sticky: true
 
 date: 2023-06-15 17:57:39+0900
 last_modified_at: 2023-06-15 17:57:43+0900
+published: true
 ---
 
 ## 👻 퀴즈 풀이
@@ -118,7 +119,7 @@ last_modified_at: 2023-06-15 17:57:43+0900
 
 FCFS는 도착한 순서대로 프로세스가 CPU를 선점하기 때문에 Arrival Time 순인 P1, P2, P3이 되고, RR2의 경우 P1, P2, P3, P1, P2, P3, P1(완료), P2, P3(완료), P2(완료) 순으로 작업이 처리된다. RR2 정책의 간트 차트는 다음과 같다.
 
-![Alt Text](/assets/images/posts_img/basics/operating-system/os-lecture-2-2-quiz/5.jpg)   
+![Alt Text](/assets/images/posts_img/active/basics/operating-system/os-lecture-2-2-quiz/5.jpg)   
 
 ***
 
@@ -145,7 +146,7 @@ FCFS는 도착한 순서대로 프로세스가 CPU를 선점하기 때문에 Arr
 
 Preemptive SJF는 SRTF이며, 이는 남은 Burst가 가장 적은 순으로 실행되는 알고리즘이다. 해당 정책의 간트 차트는 다음과 같다.
 
-![Alt Text](/assets/images/posts_img/basics/operating-system/os-lecture-2-2-quiz/6.jpg)   
+![Alt Text](/assets/images/posts_img/active/basics/operating-system/os-lecture-2-2-quiz/6.jpg)   
 
 ***
 
@@ -173,7 +174,7 @@ Preemptive SRTF(Shortest-Remaining-Time-First) 알고리즘을 사용한다고 �
 
 Preemptive SRTF는 해당 시점에 남아있는 Burst가 가장 작은 순으로 CPU를 선점하여 작업을 수행한다. 해당 정책의 간트 차트는 다음과 같다.
 
-![Alt Text](/assets/images/posts_img/basics/operating-system/os-lecture-2-2-quiz/7.jpg)   
+![Alt Text](/assets/images/posts_img/active/basics/operating-system/os-lecture-2-2-quiz/7.jpg)   
 
 ***
 
@@ -201,7 +202,7 @@ Preemptive SRTF는 해당 시점에 남아있는 Burst가 가장 작은 순으�
 
 우선순위를 사용하는 것은 4번뿐이다. 그 외에는 모두 우선순위를 제외하고 도착 시간과 Burst만을 사용하여 값을 구한다. 참고로 모든 프로세스의 도착시간은 0으로 동일하고 1, 2, 3, 4, 5 순으로 도착했다고 가정하고 풀었다. 모든 보기의 간트 차트는 다음과 같다.
 
-![Alt Text](/assets/images/posts_img/basics/operating-system/os-lecture-2-2-quiz/8.jpg)   
+![Alt Text](/assets/images/posts_img/active/basics/operating-system/os-lecture-2-2-quiz/8.jpg)   
 
 ***
 

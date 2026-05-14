@@ -68,7 +68,7 @@ categories:
       - title: "Baseball Thoughts"
         url: /thoughts/baseball-thoughts/
   - title: "Basics"
-    visible: false
+    visible: true
     children:
       - title: "Assembly Language"
         url: /basics/asm/
@@ -102,7 +102,7 @@ categories:
         visible: false
       - title: "Operating System"
         url: /basics/operating-system/
-        visible: false
+        visible: true
   - title: "Engines"
     visible: false
     children:
